@@ -40,3 +40,12 @@ Volví a re-entrenar y obtuve:
 
 Y ya ahi vemos como no solo tiene coherencia, sino que realizó correctamente el resumen de algunos titulares, mientras que en otros se acercó al menos. Una belleza.
 
+En definitiva guardar los pesos guardados, para re-entrenar sobre esos pesos y no una matriz de valores randoms cada vez, es un metodo a tener en cuenta no solo para este modelo. Sino para cualquier tipo de modelo donde trabajemos con estados H o transformaciones lineales de cualquier tipo.
+
+Hasta que punto podriamos mejorar el trabajo de esta red? Re-entrenando pesos, no lo se. Otras soluciones como incorporar Attentión a LSTM tambien serían significativas. Pero no es algo en lo que nos vamos a ocupar aquí. Considero que para lo que es aprender que es un Transformer, la red ya esta operando a un nivel decente.
+
+Antes de seguir admiremos el progreso que tuvo la red entre entrenamiento y entrenamiento. A mi personalmente me recordó un viejo pensamiento que tuve incluso antes de conocer ChatGPT. El lenguaje humano, separado de entendimientos mas profundos (que abre caminos a usos del lenguaje como la poesía o lenguajes logicos), puede ser llevado en su forma basica de estimulo, respuesta, a algebras y estadisticas. Verlo llevado a un codigo que lo demuestra no deja de impactarme. Que un niño aprenda que ante la palabra "hambre" puede recibir comida, es mas o menos lo que esta red realiza (pensamientos de alguien que viaja en colectivo :P ). Con más recursos podriamos crear nuestro ChatGPT.
+Bueno, aun no me hecho flores, vamos a ver como funciona esto...
+
+<h2>Transformer</h2>
+
