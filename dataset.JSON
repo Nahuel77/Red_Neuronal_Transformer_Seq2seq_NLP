@@ -1,0 +1,4002 @@
+[
+    {
+        "text": "La policía encontró un perro perdido en la costa de Mar del Plata.",
+        "summary": "Hallaron un perro perdido."
+    },
+    {
+        "text": "El dólar blue subió 30 pesos en la apertura del mercado.",
+        "summary": "El blue volvió a subir."
+    },
+    {
+        "text": "Una tormenta eléctrica provocó cortes de luz en varios barrios de Córdoba.",
+        "summary": "Cortes de luz por tormenta en Córdoba."
+    },
+    {
+        "text": "River venció 2 a 0 a San Lorenzo en un amistoso disputado esta tarde.",
+        "summary": "River ganó 2-0 a San Lorenzo."
+    },
+    {
+        "text": "Un incendio afectó una fábrica textil en Lanús sin dejar heridos.",
+        "summary": "Incendio en fábrica textil sin heridos."
+    },
+    {
+        "text": "Las ventas de autos usados crecieron un 12% en el último trimestre.",
+        "summary": "Aumentaron las ventas de autos usados."
+    },
+    {
+        "text": "Un grupo de vecinos protestó por mejoras en el servicio de transporte urbano.",
+        "summary": "Vecinos reclamaron por el transporte."
+    },
+    {
+        "text": "La selección argentina sub-20 viajó a Chile para disputar un torneo amistoso.",
+        "summary": "La sub-20 viajó a Chile para un amistoso."
+    },
+    {
+        "text": "Una pareja encontró un jaguarundi herido y lo entregó a un centro de rescate.",
+        "summary": "Entregaron un jaguarundi herido a rescate."
+    },
+    {
+        "text": "Los bomberos controlaron un incendio forestal cerca de Bariloche.",
+        "summary": "Controlaron un incendio forestal en Bariloche."
+    },
+    {
+        "text": "Un corte programado afectará el suministro de agua en zona norte mañana.",
+        "summary": "Habrá corte de agua programado mañana."
+    },
+    {
+        "text": "Google anunció nuevas funciones de privacidad para Android.",
+        "summary": "Google lanzó nuevas funciones de privacidad."
+    },
+    {
+        "text": "El turismo creció un 20% en la Patagonia durante el verano.",
+        "summary": "El turismo en la Patagonia creció 20%."
+    },
+    {
+        "text": "Una investigación reveló que el sedentarismo aumentó tras la pandemia.",
+        "summary": "El sedentarismo creció post pandemia."
+    },
+    {
+        "text": "WhatsApp incorporará la opción de editar mensajes enviados.",
+        "summary": "WhatsApp permitirá editar mensajes."
+    },
+    {
+        "text": "Un joven marplatense ganó un premio internacional de fotografía.",
+        "summary": "Marplatense ganó premio de fotografía."
+    },
+    {
+        "text": "El aeropuerto de Ezeiza registró demoras por fallas en un radar secundario.",
+        "summary": "Demoras en Ezeiza por fallas en radar."
+    },
+    {
+        "text": "Una ballena franca austral fue vista cerca del puerto de Rawson.",
+        "summary": "Avistaron una ballena franca en Rawson."
+    },
+    {
+        "text": "Científicos argentinos desarrollaron un nuevo método para purificar agua.",
+        "summary": "Desarrollan método argentino para purificar agua."
+    },
+    {
+        "text": "Un choque múltiple en la autopista dejó tres heridos leves.",
+        "summary": "Choque múltiple dejó tres heridos leves."
+    },
+    {
+        "text": "Miles de usuarios reportaron caída del servicio de una red social.",
+        "summary": "Usuarios reportaron caída de la red social."
+    },
+    {
+        "text": "Una escuela rural inauguró un laboratorio de ciencias equipado.",
+        "summary": "Inauguran laboratorio de ciencias en escuela rural."
+    },
+    {
+        "text": "Detectaron un sismo de baja intensidad en San Juan.",
+        "summary": "Sismo leve registrado en San Juan."
+    },
+    {
+        "text": "La inflación mensual fue del 4.2% según el último informe oficial.",
+        "summary": "La inflación llegó al 4.2% mensual."
+    },
+    {
+        "text": "Un barrio porteño estrenó un mural gigante dedicado a Quino.",
+        "summary": "Inauguraron mural en homenaje a Quino."
+    },
+    {
+        "text": "El gobierno anunció un plan para modernizar el transporte ferroviario.",
+        "summary": "Presentan plan para modernizar trenes."
+    },
+    {
+        "text": "Hallaron restos fósiles de un reptil marino en Neuquén.",
+        "summary": "Descubren fósiles de reptil marino en Neuquén."
+    },
+    {
+        "text": "Una mujer dio a luz en plena calle asistida por un transeúnte.",
+        "summary": "Mujer dio a luz en la calle con ayuda."
+    },
+    {
+        "text": "Se espera una ola de calor que afectará al centro del país.",
+        "summary": "Pronostican ola de calor en el centro del país."
+    },
+    {
+        "text": "Clubes de barrio piden subsidios para afrontar aumentos de tarifas.",
+        "summary": "Clubes de barrio reclaman subsidios."
+    },
+    {
+        "text": "Una nueva ruta aérea conectará Mendoza con Lima desde junio.",
+        "summary": "Habrá ruta aérea Mendoza–Lima desde junio."
+    },
+    {
+        "text": "Cerró una histórica librería porteña tras 50 años de actividad.",
+        "summary": "Cerró una librería porteña histórica."
+    },
+    {
+        "text": "Los precios de los granos subieron impulsados por la demanda internacional.",
+        "summary": "Suben los precios de los granos."
+    },
+    {
+        "text": "Una encuesta reveló que creció el uso de bicicletas como transporte diario.",
+        "summary": "Aumentó el uso de bicicletas diarias."
+    },
+    {
+        "text": "Un equipo argentino ganó un premio por innovación en energías renovables.",
+        "summary": "Premian a equipo argentino por innovación energética."
+    },
+    {
+        "text": "La municipalidad lanzó un programa de reciclaje puerta a puerta.",
+        "summary": "Lanzan programa de reciclaje domiciliario."
+    },
+    {
+        "text": "Una startup local desarrolló un robot para automatizar huertas urbanas.",
+        "summary": "Startup creó robot para huertas urbanas."
+    },
+    {
+        "text": "Un nuevo estudio alertó sobre el impacto del microplástico en la fauna marina.",
+        "summary": "Alertan por microplásticos en fauna marina."
+    },
+    {
+        "text": "Vecinos denunciaron malos olores provenientes de una planta de tratamiento.",
+        "summary": "Vecinos denunciaron malos olores en planta."
+    },
+    {
+        "text": "La banda confirmó un show gratuito en Rosario el próximo mes.",
+        "summary": "Confirman show gratuito en Rosario."
+    },
+    {
+        "text": "Una falla técnica dejó sin servicio a miles de usuarios de internet.",
+        "summary": "Falla dejó sin internet a miles."
+    },
+    {
+        "text": "Se reanudaron los vuelos internacionales tras mejoras en el aeropuerto.",
+        "summary": "Vuelven los vuelos internacionales."
+    },
+    {
+        "text": "Un artista local presentó una muestra inspirada en la memoria colectiva.",
+        "summary": "Presentan muestra sobre memoria colectiva."
+    },
+    {
+        "text": "La calle principal de Salta permanecerá cortada por obras.",
+        "summary": "Cortan calle principal de Salta por obras."
+    },
+    {
+        "text": "Investigadores lograron mejorar la eficiencia de paneles solares.",
+        "summary": "Mejoran eficiencia de paneles solares."
+    },
+    {
+        "text": "Hubo demoras en el subte por un problema con una formación.",
+        "summary": "Demoras en subte por problema técnico."
+    },
+    {
+        "text": "Descubrieron un nuevo sitio arqueológico en las sierras de Córdoba.",
+        "summary": "Hallan sitio arqueológico en Córdoba."
+    },
+    {
+        "text": "Una heladería ganó un concurso internacional por su sabor de dulce de leche.",
+        "summary": "Heladería ganó premio por dulce de leche."
+    },
+    {
+        "text": "Una falla eléctrica provocó un pequeño incendio en una oficina céntrica.",
+        "summary": "Falla eléctrica causó incendio."
+    },
+    {
+        "text": "Se presentó un proyecto para ampliar el parque nacional Nahuel Huapi.",
+        "summary": "Proponen ampliar el parque Nahuel Huapi."
+    },
+    {
+        "text": "Las exportaciones de vino crecieron durante el último año.",
+        "summary": "Subieron las exportaciones de vino."
+    },
+    {
+        "text": "Un joven rescató a un gato atrapado en un árbol en Rosario.",
+        "summary": "Rescataron a un gato atrapado en un árbol."
+    },
+    {
+        "text": "Científicos descubrieron un nuevo molusco en el Atlántico Sur.",
+        "summary": "Descubren nuevo molusco en el Atlántico Sur."
+    },
+    {
+        "text": "Una campaña solidaria reunió alimentos para comedores barriales.",
+        "summary": "Juntaron alimentos para comedores."
+    },
+    {
+        "text": "El Banco Central anunció medidas para contener la inflación.",
+        "summary": "El BCRA anunció medidas antiinflación."
+    },
+    {
+        "text": "Una tormenta de viento dañó techos en un pequeño pueblo de Chubut.",
+        "summary": "Vientos dañaron techos en Chubut."
+    },
+    {
+        "text": "La ciudad incorporará 50 nuevos colectivos ecológicos.",
+        "summary": "Incorporan 50 colectivos ecológicos."
+    },
+    {
+        "text": "Un equipo de rescate salvó a dos excursionistas extraviados.",
+        "summary": "Rescataron a excursionistas perdidos."
+    },
+    {
+        "text": "Un hospital público abrió un nuevo servicio de salud mental.",
+        "summary": "Abren servicio de salud mental."
+    },
+    {
+        "text": "Aumentó la demanda de cursos online durante el último año.",
+        "summary": "Creció la demanda de cursos online."
+    },
+    {
+        "text": "El teatro provincial reabrió sus puertas tras meses de reformas.",
+        "summary": "Reabrió el teatro provincial."
+    },
+    {
+        "text": "Confirmaron la fecha del próximo eclipse visible desde Argentina.",
+        "summary": "Anuncian fecha de próximo eclipse."
+    },
+    {
+        "text": "Un desperfecto dejó a un ascensor atrapado con seis personas.",
+        "summary": "Seis personas quedaron atrapadas en ascensor."
+    },
+    {
+        "text": "Científicos midieron un incremento en la temperatura del Atlántico Sur.",
+        "summary": "Aumentó la temperatura del Atlántico Sur."
+    },
+    {
+        "text": "Una protesta docente afectó el dictado de clases en varias escuelas.",
+        "summary": "Protesta docente interrumpió clases."
+    },
+    {
+        "text": "Abrió un nuevo parque urbano en el centro de la ciudad.",
+        "summary": "Inauguran nuevo parque urbano."
+    },
+    {
+        "text": "Una compañía lanzó auriculares con cancelación de ruido mejorada.",
+        "summary": "Presentan auriculares con mejor cancelación de ruido."
+    },
+    {
+        "text": "El precio del trigo cayó por una mayor oferta global.",
+        "summary": "Baja el precio del trigo."
+    },
+    {
+        "text": "Un festival gastronómico reunió a miles de personas en Mendoza.",
+        "summary": "Multitud en festival gastronómico en Mendoza."
+    },
+    {
+        "text": "Se realizó un operativo para vacunar perros y gatos en barrios vulnerables.",
+        "summary": "Vacunan mascotas en barrios vulnerables."
+    },
+    {
+        "text": "Una familia reconstruyó su casa tras un incendio ocurrido el año pasado.",
+        "summary": "Familia reconstruyó su casa tras incendio."
+    },
+    {
+        "text": "Investigadores desarrollaron una batería más liviana y duradera.",
+        "summary": "Desarrollan batería más liviana y duradera."
+    },
+    {
+        "text": "La autopista permanecerá cerrada parcialmente por reparaciones.",
+        "summary": "Cierran parte de la autopista por reparaciones."
+    },
+    {
+        "text": "Un comerciante denunció robos reiterados en su local.",
+        "summary": "Comerciante denunció robos."
+    },
+    {
+        "text": "El club anunció la construcción de un nuevo centro deportivo.",
+        "summary": "Construirán nuevo centro deportivo."
+    },
+    {
+        "text": "Un grupo de astrónomos detectó un exoplaneta similar a la Tierra.",
+        "summary": "Detectan exoplaneta parecido a la Tierra."
+    },
+    {
+        "text": "La provincia lanzará un programa de becas para estudiantes secundarios.",
+        "summary": "Lanzan becas para estudiantes secundarios."
+    },
+    {
+        "text": "Una exposición fotográfica rinde homenaje a trabajadores esenciales.",
+        "summary": "Exposición homenajea a trabajadores esenciales."
+    },
+    {
+        "text": "Un corte de fibra óptica afectó el servicio telefónico por horas.",
+        "summary": "Corte de fibra afectó servicio telefónico."
+    },
+    {
+        "text": "El INTI presentó un dispositivo para medir calidad del aire.",
+        "summary": "INTI presentó medidor de calidad del aire."
+    },
+    {
+        "text": "Una feria de libros usados tuvo récord de visitantes este mes.",
+        "summary": "Récord de visitas en feria de libros usados."
+    },
+    {
+        "text": "La universidad abrió inscripciones para cursos de formación profesional.",
+        "summary": "Abren inscripciones para cursos profesionales."
+    },
+    {
+        "text": "Una fuerte granizada dañó cultivos en la región cuyana.",
+        "summary": "Granizada afectó cultivos en Cuyo."
+    },
+    {
+        "text": "El museo restauró una pieza histórica del siglo XVIII.",
+        "summary": "Restauran pieza histórica del siglo XVIII."
+    },
+    {
+        "text": "La ciudad instalará nuevos puntos de carga para autos eléctricos.",
+        "summary": "Instalan cargadores para autos eléctricos."
+    },
+    {
+        "text": "Un grupo de voluntarios limpió una playa afectada por basura plástica.",
+        "summary": "Voluntarios limpiaron una playa contaminada."
+    },
+    {
+        "text": "El metro de Santiago implementará un sistema de pago sin contacto.",
+        "summary": "Metro de Santiago adopta pago sin contacto."
+    },
+    {
+        "text": "Una tormenta de gran intensidad provocó anegamientos en Rosario.",
+        "summary": "Tormenta causó anegamientos en Rosario."
+    },
+    {
+        "text": "El Hospital Garrahan inauguró una sala destinada a trasplantes pediátricos.",
+        "summary": "Inauguran sala para trasplantes pediátricos."
+    },
+    {
+        "text": "Una empresa tecnológica abrirá 200 nuevos puestos en Buenos Aires.",
+        "summary": "Empresa abrirá 200 puestos en Buenos Aires."
+    },
+    {
+        "text": "Detectaron niveles altos de polen por el inicio de la primavera.",
+        "summary": "Aumentan niveles de polen por la primavera."
+    },
+    {
+        "text": "Una nueva aplicación permite reservar turnos médicos sin llamada telefónica.",
+        "summary": "App permite sacar turnos médicos sin llamar."
+    },
+    {
+        "text": "La autopista Córdoba-Rosario tendrá radares de velocidad renovados.",
+        "summary": "Renuevan radares en la Córdoba-Rosario."
+    },
+    {
+        "text": "Arqueólogos hallaron restos de viviendas prehispánicas en Jujuy.",
+        "summary": "Hallan viviendas prehispánicas en Jujuy."
+    },
+    {
+        "text": "Se inició una campaña para fomentar la donación de sangre.",
+        "summary": "Lanzan campaña de donación de sangre."
+    },
+    {
+        "text": "Un teatro independiente presentó una obra inspirada en Borges.",
+        "summary": "Estrenan obra inspirada en Borges."
+    },
+    {
+        "text": "El clima frío adelantó la temporada de uso de calefactores.",
+        "summary": "El frío adelantó el uso de calefactores."
+    },
+    {
+        "text": "Una falla de software afectó la operación de varios cajeros automáticos.",
+        "summary": "Falla de software afectó cajeros."
+    },
+    {
+        "text": "Un grupo de vecinos organizó una colecta para reparar la plaza del barrio.",
+        "summary": "Vecinos juntan fondos para arreglar la plaza."
+    },
+    {
+        "text": "El servicio de trenes sufrió demoras por tareas de mantenimiento en las vías.",
+        "summary": "Demoras en trenes por mantenimiento."
+    },
+    {
+        "text": "Una mujer rescató a un gato atrapado en un árbol en Córdoba.",
+        "summary": "Rescatan a un gato en Córdoba."
+    },
+    {
+        "text": "Un incendio afectó un depósito de muebles en Quilmes sin heridos.",
+        "summary": "Incendio en depósito sin heridos."
+    },
+    {
+        "text": "La municipalidad anunció nuevas obras de pavimentación para marzo.",
+        "summary": "Habrá nuevas obras de pavimentación."
+    },
+    {
+        "text": "El dólar blue subió tres pesos en el cierre del mercado.",
+        "summary": "El dólar blue aumentó ligeramente."
+    },
+    {
+        "text": "Un motociclista resultó herido tras chocar con un auto en San Juan.",
+        "summary": "Motociclista herido en un choque."
+    },
+    {
+        "text": "El Banco Central publicó nuevas normas para créditos hipotecarios.",
+        "summary": "Nuevas reglas para créditos hipotecarios."
+    },
+    {
+        "text": "Vecinos denunciaron ruidos molestos de un bar que opera hasta tarde.",
+        "summary": "Vecinos denuncian ruidos de un bar."
+    },
+    {
+        "text": "Una pareja ganó la lotería luego de jugar los mismos números por años.",
+        "summary": "Pareja gana la lotería tras insistir."
+    },
+    {
+        "text": "La lluvia intensa provocó anegamientos en varias calles de Salta.",
+        "summary": "Lluvias causan anegamientos en Salta."
+    },
+    {
+        "text": "Una escuela rural recibió computadoras nuevas del gobierno provincial.",
+        "summary": "Escuela rural recibe nuevas computadoras."
+    },
+    {
+        "text": "Reabrió el museo de ciencias naturales tras meses de reformas.",
+        "summary": "Reabrió el museo tras reformas."
+    },
+    {
+        "text": "El ministro de salud confirmó la compra de nuevas ambulancias.",
+        "summary": "Comprarán nuevas ambulancias."
+    },
+    {
+        "text": "Un camión volcó en la ruta 2 y generó demoras en ambos sentidos.",
+        "summary": "Camión volcado causa demoras en ruta 2."
+    },
+    {
+        "text": "Los comerciantes piden mayor seguridad por robos recientes.",
+        "summary": "Comerciantes reclaman más seguridad."
+    },
+    {
+        "text": "Un joven creó una app para encontrar productos aptos para celíacos.",
+        "summary": "Joven desarrolla app para celíacos."
+    },
+    {
+        "text": "La biblioteca del barrio organizará un taller gratuito de lectura.",
+        "summary": "Habrá taller de lectura gratuito."
+    },
+    {
+        "text": "Un corte de agua afectará tres zonas por mantenimiento programado.",
+        "summary": "Habrá corte de agua por mantenimiento."
+    },
+    {
+        "text": "Detectaron un caso aislado de dengue en la ciudad.",
+        "summary": "Confirman un caso aislado de dengue."
+    },
+    {
+        "text": "El teatro local anunció funciones extra por alta demanda.",
+        "summary": "Agregan funciones en el teatro."
+    },
+    {
+        "text": "Un grupo de ciclistas realizó una protesta por mejores bicisendas.",
+        "summary": "Ciclistas protestan por bicisendas."
+    },
+    {
+        "text": "Una tormenta eléctrica dejó sin señal a varias radios regionales.",
+        "summary": "Tormenta afecta señal de radios."
+    },
+    {
+        "text": "Un estudiante argentino ganó un concurso internacional de robótica.",
+        "summary": "Argentino gana concurso de robótica."
+    },
+    {
+        "text": "Un bar de Mendoza ofrece menú especial para mascotas.",
+        "summary": "Bar ofrece menú para mascotas."
+    },
+    {
+        "text": "La policía detuvo a dos personas por robo en una tienda de ropa.",
+        "summary": "Detienen a dos por robo en tienda."
+    },
+    {
+        "text": "Un equipo local clasificó a la final del torneo provincial.",
+        "summary": "Equipo local llega a la final."
+    },
+    {
+        "text": "Aumentó la venta de bicicletas durante el último mes.",
+        "summary": "Sube la venta de bicicletas."
+    },
+    {
+        "text": "El aeropuerto registró demoras por niebla durante la mañana.",
+        "summary": "Niebla causa demoras en el aeropuerto."
+    },
+    {
+        "text": "Un jardín botánico incorporó nuevas especies de plantas nativas.",
+        "summary": "El botánico suma plantas nativas."
+    },
+    {
+        "text": "Una ONG organiza donaciones de ropa para familias vulnerables.",
+        "summary": "ONG junta ropa para familias."
+    },
+    {
+        "text": "Una startup local lanzó un servicio de envíos ecológicos.",
+        "summary": "Lanzan servicio de envíos ecológicos."
+    },
+    {
+        "text": "El tránsito fue desviado por obra en un puente céntrico.",
+        "summary": "Desvían tránsito por obra en puente."
+    },
+    {
+        "text": "Vecinos rescataron a un hombre que cayó en un zanjón.",
+        "summary": "Vecinos rescatan a hombre caído."
+    },
+    {
+        "text": "Un estudio afirma que los jóvenes leen más libros digitales.",
+        "summary": "Estudio: crece lectura digital."
+    },
+    {
+        "text": "La feria del libro local confirmó su edición anual.",
+        "summary": "Confirman nueva edición de la feria del libro."
+    },
+    {
+        "text": "Una heladería lanzó sabores inspirados en bebidas clásicas.",
+        "summary": "Heladería lanza sabores nuevos."
+    },
+    {
+        "text": "Robaron cables y dejaron sin internet a un barrio entero.",
+        "summary": "Robo de cables deja barrio sin internet."
+    },
+    {
+        "text": "Un turista sufrió una caída mientras hacía trekking en Bariloche.",
+        "summary": "Turista herido en trekking."
+    },
+    {
+        "text": "El tren turístico renovó su flota con dos vagones históricos.",
+        "summary": "Renuevan tren turístico."
+    },
+    {
+        "text": "Abrió un nuevo centro de reciclaje con atención diaria.",
+        "summary": "Inauguran centro de reciclaje."
+    },
+    {
+        "text": "Una escuela suspendió clases por problemas edilicios.",
+        "summary": "Suspenden clases por problemas edilicios."
+    },
+    {
+        "text": "La ciudad inauguró su primer parque para deportes urbanos.",
+        "summary": "Inauguran parque de deportes urbanos."
+    },
+    {
+        "text": "Un grupo de astrónomos descubrió un nuevo cometa visible a simple vista.",
+        "summary": "Descubren un cometa visible."
+    },
+    {
+        "text": "Aumentará el boleto de colectivo a partir del lunes próximo.",
+        "summary": "Sube el boleto de colectivo."
+    },
+    {
+        "text": "La universidad abrió inscripciones para cursos de programación.",
+        "summary": "Abren inscripciones para programación."
+    },
+    {
+        "text": "Un festival gastronómico reunirá a chefs de toda la región.",
+        "summary": "Habrá festival gastronómico regional."
+    },
+    {
+        "text": "La lluvia retrasó el inicio del partido en La Plata.",
+        "summary": "Lluvia retrasa partido en La Plata."
+    },
+    {
+        "text": "Un hombre fue rescatado tras quedar atrapado en su auto por una crecida.",
+        "summary": "Rescatan a un hombre atrapado por la crecida."
+    },
+    {
+        "text": "El hospital local incorporó un nuevo equipo de diagnóstico.",
+        "summary": "Hospital suma equipo de diagnóstico."
+    },
+    {
+        "text": "Un galpón abandonado se incendió esta madrugada sin daños mayores.",
+        "summary": "Incendio en galpón abandonado."
+    },
+    {
+        "text": "Lanzaron una línea de ropa fabricada con materiales reciclados.",
+        "summary": "Lanzan ropa hecha con reciclados."
+    },
+    {
+        "text": "La selección juvenil ganó en su debut en el torneo sudamericano.",
+        "summary": "La juvenil gana en su debut."
+    },
+    {
+        "text": "Un artista callejero pintó un mural homenaje a trabajadores esenciales.",
+        "summary": "Pintan mural en homenaje a esenciales."
+    },
+    {
+        "text": "La ruta 40 estará parcialmente cortada por obras de reparación.",
+        "summary": "Corte parcial en ruta 40 por obras."
+    },
+    {
+        "text": "Nuevos sensores medirán la calidad del aire en zonas industriales.",
+        "summary": "Instalan sensores para medir el aire."
+    },
+    {
+        "text": "Detectaron fallas en el servicio de mensajería durante la tarde.",
+        "summary": "Hubo fallas en el servicio de mensajería."
+    },
+    {
+        "text": "Una pareja abrió un café literario con microshows semanales.",
+        "summary": "Abren café literario con shows."
+    },
+    {
+        "text": "La banda anunció un recital gratuito en el parque central.",
+        "summary": "Habrá recital gratuito en el parque."
+    },
+    {
+        "text": "Un derrumbe menor obligó a cerrar un sendero en las sierras.",
+        "summary": "Cierran sendero por derrumbe menor."
+    },
+    {
+        "text": "Una panadería del barrio ganó un concurso de mejor medialuna.",
+        "summary": "Panadería gana premio por medialunas."
+    },
+    {
+        "text": "El gobierno lanzó un plan para mejorar el transporte rural.",
+        "summary": "Lanzan plan para transporte rural."
+    },
+    {
+        "text": "Un chico de 12 años creó un robot que recoge basura.",
+        "summary": "Niño crea robot recolector de basura."
+    },
+    {
+        "text": "La policía retuvo varias motos por falta de casco en operativos.",
+        "summary": "Retienen motos por no usar casco."
+    },
+    {
+        "text": "Los taxis aumentarán su tarifa nocturna desde la semana próxima.",
+        "summary": "Aumenta la tarifa nocturna de taxis."
+    },
+    {
+        "text": "Una ola de calor elevó la demanda eléctrica en todo el país.",
+        "summary": "Ola de calor sube demanda eléctrica."
+    },
+    {
+        "text": "Restauraron un antiguo cine que estaba cerrado desde 1995.",
+        "summary": "Restauran cine cerrado hace décadas."
+    },
+    {
+        "text": "Un barbero ofrece cortes gratis a personas en situación de calle.",
+        "summary": "Barbero da cortes gratis a gente en calle."
+    },
+    {
+        "text": "El servicio de subte funcionará con horario especial por feriado.",
+        "summary": "Subte tendrá horario especial."
+    },
+    {
+        "text": "Se detectó una falla en un transformador del centro.",
+        "summary": "Falla en transformador del centro."
+    },
+    {
+        "text": "Lanzaron una campaña para adoptar perros adultos.",
+        "summary": "Campaña para adoptar perros adultos."
+    },
+    {
+        "text": "Una investigación reveló aumento en casos de insomnio.",
+        "summary": "Estudio detecta más insomnio."
+    },
+    {
+        "text": "El club del barrio abrió inscripciones para fútbol infantil.",
+        "summary": "Abren inscripciones para fútbol infantil."
+    },
+    {
+        "text": "Una protesta docente bloqueó dos avenidas céntricas.",
+        "summary": "Docentes bloquean avenidas."
+    },
+    {
+        "text": "Se inauguró una muestra de fotografía sobre paisajes patagónicos.",
+        "summary": "Inauguran muestra fotográfica patagónica."
+    },
+    {
+        "text": "Un camión perdió carga y generó demoras en la autopista.",
+        "summary": "Camión pierde carga y causa demoras."
+    },
+    {
+        "text": "Una fábrica local aumentará su producción tras una inversión.",
+        "summary": "Fábrica aumenta producción."
+    },
+    {
+        "text": "La peatonal tendrá espectáculos callejeros durante el verano.",
+        "summary": "Habrá espectáculos en la peatonal."
+    },
+    {
+        "text": "La biblioteca recibió donación de 500 libros nuevos.",
+        "summary": "Biblioteca recibe 500 libros."
+    },
+    {
+        "text": "Hubo un sismo leve que se sintió en zonas del noroeste.",
+        "summary": "Sismo leve en el noroeste."
+    },
+    {
+        "text": "Un vendedor ambulante devolvió una billetera perdida.",
+        "summary": "Ambulante devuelve billetera."
+    },
+    {
+        "text": "Un avión debió aterrizar de emergencia por falla técnica.",
+        "summary": "Avión aterriza de emergencia."
+    },
+    {
+        "text": "La ciudad presentó un nuevo plan de reciclaje domiciliario.",
+        "summary": "Presentan plan de reciclaje."
+    },
+    {
+        "text": "Una empresa tecnológica creará 80 puestos de trabajo.",
+        "summary": "Empresa creará 80 empleos."
+    },
+    {
+        "text": "Un atleta local rompió un récord provincial de salto.",
+        "summary": "Atleta rompe récord provincial."
+    },
+    {
+        "text": "La autopista fue cerrada por un choque múltiple.",
+        "summary": "Cierran autopista por choque múltiple."
+    },
+    {
+        "text": "Nuevos colectivos eléctricos comenzarán a funcionar este mes.",
+        "summary": "Colectivos eléctricos se suman al servicio."
+    },
+    {
+        "text": "Un pequeño tornado causó daños en varias viviendas rurales.",
+        "summary": "Tornado causa daños rurales."
+    },
+    {
+        "text": "Los científicos probarán una vacuna experimental contra gripe aviar.",
+        "summary": "Prueban vacuna contra gripe aviar."
+    },
+    {
+        "text": "El zoológico anunció el nacimiento de una cría de panda rojo.",
+        "summary": "Nace panda rojo en zoológico."
+    },
+    {
+        "text": "Una falla dejó sin semáforos varias esquinas del centro.",
+        "summary": "Falla apaga semáforos del centro."
+    },
+    {
+        "text": "Los estudiantes organizaron una feria de ciencias abierta al público.",
+        "summary": "Estudiantes hacen feria de ciencias."
+    },
+    {
+        "text": "Un nuevo servicio de taxis permitirá pagar con QR.",
+        "summary": "Taxis permitirán pagar con QR."
+    },
+    {
+        "text": "Un perro rescatista ayudó a encontrar a un hombre perdido en el monte.",
+        "summary": "Perro encuentra a un hombre perdido."
+    },
+    {
+        "text": "Artesanos locales exhibirán sus trabajos en un mercado al aire libre.",
+        "summary": "Artesanos exhiben obras al aire libre."
+    },
+    {
+        "text": "Habilitaron un carril exclusivo para colectivos en la avenida principal.",
+        "summary": "Habilitan carril exclusivo para colectivos."
+    },
+    {
+        "text": "Un apagón afectó a tres provincias por más de dos horas.",
+        "summary": "Apagón afecta tres provincias."
+    },
+    {
+        "text": "Una familia encontró restos fósiles mientras caminaba por el campo.",
+        "summary": "Familia encuentra restos fósiles."
+    },
+    {
+        "text": "Un estudio reveló que el 60% de los jóvenes argentinos prefiere estudiar de manera remota.",
+        "summary": "La mayoría de los jóvenes prefiere estudiar online."
+    },
+    {
+        "text": "El municipio anunció la apertura de un nuevo centro cultural con talleres gratuitos.",
+        "summary": "Abren un centro cultural con talleres gratis."
+    },
+    {
+        "text": "Una tormenta fuerte provocó anegamientos en varias calles del conurbano bonaerense.",
+        "summary": "Tormenta causó anegamientos en el conurbano."
+    },
+    {
+        "text": "La universidad lanzó un programa de becas para carreras tecnológicas.",
+        "summary": "Lanzan becas para carreras tecnológicas."
+    },
+    {
+        "text": "Investigadores desarrollaron un prototipo de drone capaz de detectar incendios forestales.",
+        "summary": "Crean drone para detectar incendios forestales."
+    },
+    {
+        "text": "El precio del transporte público aumentará un 15% a partir del próximo mes.",
+        "summary": "El transporte subirá un 15% el mes que viene."
+    },
+    {
+        "text": "Una iniciativa solidaria distribuyó abrigo y comida a personas en situación de calle.",
+        "summary": "Reparten abrigo y comida a gente en la calle."
+    },
+    {
+        "text": "El aeropuerto registró un récord de vuelos internacionales durante el fin de semana largo.",
+        "summary": "Récord de vuelos internacionales en el fin de semana largo."
+    },
+    {
+        "text": "La empresa presentó un nuevo smartphone con pantalla flexible y batería de larga duración.",
+        "summary": "Presentaron un smartphone con pantalla flexible."
+    },
+    {
+        "text": "Un grupo de biólogos descubrió una nueva especie de pez en el río Paraná.",
+        "summary": "Descubren nueva especie de pez en el Paraná."
+    },
+    {
+        "text": "La ciudad inauguró una ciclovía que conecta cuatro barrios distintos.",
+        "summary": "Inauguraron una ciclovía que une cuatro barrios."
+    },
+    {
+        "text": "Un incendio en una fábrica fue controlado rápidamente por los bomberos.",
+        "summary": "Bomberos controlaron un incendio en una fábrica."
+    },
+    {
+        "text": "La selección argentina sub-20 ganó un amistoso internacional por amplia diferencia.",
+        "summary": "La sub-20 goleó en un amistoso internacional."
+    },
+    {
+        "text": "Arqueólogos hallaron fragmentos de cerámica de más de mil años en Salta.",
+        "summary": "Encontraron cerámica milenaria en Salta."
+    },
+    {
+        "text": "Una encuesta muestra que crece el interés por el reciclaje entre los ciudadanos.",
+        "summary": "Aumenta el interés por reciclar."
+    },
+    {
+        "text": "Los teatros del centro volvieron a llenarse tras varios meses de baja asistencia.",
+        "summary": "Los teatros repuntaron tras meses de baja asistencia."
+    },
+    {
+        "text": "El hospital local incorporó un nuevo equipo para diagnósticos de alta precisión.",
+        "summary": "El hospital sumó equipo para diagnósticos precisos."
+    },
+    {
+        "text": "Un concierto gratuito reunió a miles de personas en el parque principal.",
+        "summary": "Miles asistieron a un concierto gratuito."
+    },
+    {
+        "text": "La biblioteca digital agregó más de 500 libros clásicos a su catálogo.",
+        "summary": "Sumaron 500 libros clásicos a la biblioteca digital."
+    },
+    {
+        "text": "Una empresa nacional exportará software a Europa por primera vez.",
+        "summary": "Empresa argentina exportará software a Europa."
+    },
+    {
+        "text": "La provincia construirá un nuevo corredor vial para mejorar el tránsito.",
+        "summary": "Construirán un corredor vial para mejorar el tránsito."
+    },
+    {
+        "text": "Científicos confirmaron que la sequía afectará la producción agrícola este año.",
+        "summary": "La sequía reducirá la producción agrícola."
+    },
+    {
+        "text": "Un festival gastronómico ofreció platos regionales a precios accesibles.",
+        "summary": "Festival gastronómico ofreció platos regionales económicos."
+    },
+    {
+        "text": "La policía detuvo a dos personas por robo de bicicletas en el centro.",
+        "summary": "Detuvieron a dos por robo de bicicletas."
+    },
+    {
+        "text": "Un programa estatal entregará notebooks a estudiantes de bajos recursos.",
+        "summary": "Entregarán notebooks a estudiantes vulnerables."
+    },
+    {
+        "text": "La feria de artesanos reabrió con más expositores que el año pasado.",
+        "summary": "Reabrió la feria de artesanos con más expositores."
+    },
+    {
+        "text": "Una startup presentó un servicio de entrega rápida con vehículos eléctricos.",
+        "summary": "Startup lanza entregas rápidas con vehículos eléctricos."
+    },
+    {
+        "text": "El museo organizó una muestra interactiva sobre ciencia y tecnología.",
+        "summary": "Museo inaugura muestra interactiva de ciencia."
+    },
+    {
+        "text": "Un equipo médico realizó la primera cirugía robótica en el país.",
+        "summary": "Realizan la primera cirugía robótica del país."
+    },
+    {
+        "text": "Vecinos denunciaron la falta de recolección de residuos en varias cuadras.",
+        "summary": "Vecinos reclaman por falta de recolección."
+    },
+    {
+        "text": "El gobierno anunció créditos accesibles para pequeñas empresas.",
+        "summary": "Anuncian créditos accesibles para pymes."
+    },
+    {
+        "text": "El club local presentó su nueva camiseta inspirada en diseños históricos.",
+        "summary": "El club lanzó camiseta inspirada en modelos históricos."
+    },
+    {
+        "text": "Una aplicación nueva permite gestionar turnos médicos sin llamadas telefónicas.",
+        "summary": "Nueva app gestiona turnos médicos sin llamadas."
+    },
+    {
+        "text": "Un fuerte temporal provocó la caída de árboles y daños en vehículos.",
+        "summary": "Temporal causó caída de árboles y daños."
+    },
+    {
+        "text": "El banco central ajustó la tasa de interés para controlar la inflación.",
+        "summary": "Ajustan la tasa de interés para contener la inflación."
+    },
+    {
+        "text": "Una escuela rural recibió donaciones para renovar su infraestructura.",
+        "summary": "Donaciones permitirán renovar una escuela rural."
+    },
+    {
+        "text": "La empresa láctea lanzó un producto vegano hecho a base de almendras.",
+        "summary": "Lanzan producto lácteo vegano de almendras."
+    },
+    {
+        "text": "Un grupo de astrónomos detectó un nuevo exoplaneta cercano a la Tierra.",
+        "summary": "Descubren un exoplaneta cercano."
+    },
+    {
+        "text": "La ciudad ampliará su red de cámaras de seguridad durante el verano.",
+        "summary": "Ampliarán la red de cámaras de seguridad."
+    },
+    {
+        "text": "La policía decomisó mercancía ilegal en un operativo nocturno.",
+        "summary": "Decomisan mercancía ilegal en un operativo."
+    },
+    {
+        "text": "La editorial publicará una colección de cuentos inéditos de autores locales.",
+        "summary": "Publicarán cuentos inéditos de autores locales."
+    },
+    {
+        "text": "Un maratonista argentino ganó una competencia internacional en Chile.",
+        "summary": "Maratonista argentino ganó en Chile."
+    },
+    {
+        "text": "La autopista permanecerá cerrada esta noche por obras de mantenimiento.",
+        "summary": "Cerrarán la autopista por mantenimiento nocturno."
+    },
+    {
+        "text": "Estudiantes de ingeniería desarrollaron un robot que detecta fugas de gas.",
+        "summary": "Crean robot universitario que detecta fugas de gas."
+    },
+    {
+        "text": "El cine del barrio reabrió con promociones especiales para vecinos.",
+        "summary": "Reabrió el cine con promos para vecinos."
+    },
+    {
+        "text": "Una filtración de agua dañó parte del archivo histórico municipal.",
+        "summary": "Una fuga de agua dañó archivos históricos."
+    },
+    {
+        "text": "La ciudad recibió fondos para renovar veredas en el casco histórico.",
+        "summary": "Fondos permitirán renovar veredas del casco histórico."
+    },
+    {
+        "text": "Un operativo sanitario aplicó más de 3.000 vacunas en dos días.",
+        "summary": "Vacunaron a 3.000 personas en dos días."
+    },
+    {
+        "text": "Un ciclón en Brasil provocó cancelaciones de vuelos en la región.",
+        "summary": "Ciclón en Brasil causó cancelaciones de vuelos."
+    },
+    {
+        "text": "La feria del libro infantil atrajo a miles de familias durante el fin de semana.",
+        "summary": "Miles visitaron la feria del libro infantil."
+    },
+    {
+        "text": "La línea de colectivos incorporó cinco unidades nuevas con aire acondicionado.",
+        "summary": "Colectivos sumaron cinco unidades con aire acondicionado."
+    },
+    {
+        "text": "Una campaña ambiental retiró toneladas de basura de la costa.",
+        "summary": "Retiran toneladas de basura de la costa."
+    },
+    {
+        "text": "El teatro anunció una temporada especial con clásicos del cine mudo.",
+        "summary": "Habrá temporada especial de cine mudo."
+    },
+    {
+        "text": "Productores locales reportaron mejora en la cosecha tras las últimas lluvias.",
+        "summary": "La cosecha mejoró gracias a las lluvias."
+    },
+    {
+        "text": "Un campus tecnológico abrió sus puertas con laboratorios de última generación.",
+        "summary": "Abre campus tecnológico con laboratorios modernos."
+    },
+    {
+        "text": "La ciudad implementó un sistema de reciclaje puerta a puerta.",
+        "summary": "Implementan reciclaje puerta a puerta."
+    },
+    {
+        "text": "Las ventas de bicicletas crecieron un 20% este año.",
+        "summary": "Suben 20% las ventas de bicicletas."
+    },
+    {
+        "text": "El coral del acuario presentó una reproducción exitosa por primera vez.",
+        "summary": "Coral del acuario se reprodujo por primera vez."
+    },
+    {
+        "text": "Una flota de taxis sumará vehículos eléctricos para reducir emisiones.",
+        "summary": "Taxis incorporarán autos eléctricos."
+    },
+    {
+        "text": "La provincia ampliará la capacidad de sus parques eólicos.",
+        "summary": "Ampliarán los parques eólicos provinciales."
+    },
+    {
+        "text": "Investigadores argentinos participan en un proyecto espacial europeo.",
+        "summary": "Científicos argentinos colaboran en misión espacial."
+    },
+    {
+        "text": "Una aplicación argentina alcanzó un millón de usuarios activos.",
+        "summary": "App argentina llega al millón de usuarios."
+    },
+    {
+        "text": "El zoológico celebró el nacimiento de dos crías de panda rojo.",
+        "summary": "Nacieron dos pandas rojos en el zoológico."
+    },
+    {
+        "text": "Una nueva ley busca promover la producción nacional de videojuegos.",
+        "summary": "Impulsan ley para promover videojuegos nacionales."
+    },
+    {
+        "text": "El barrio sumará una estación de carga para autos eléctricos.",
+        "summary": "Instalarán estación de carga eléctrica en el barrio."
+    },
+    {
+        "text": "Una heladería ganó un premio internacional por su sabor de dulce de leche.",
+        "summary": "Heladería premiada por su dulce de leche."
+    },
+    {
+        "text": "La biblioteca del barrio ofrecerá talleres gratuitos de escritura creativa.",
+        "summary": "Biblioteca dará talleres gratis de escritura."
+    },
+    {
+        "text": "El transporte ferroviario recuperó un tramo que llevaba décadas inactivo.",
+        "summary": "Recuperan tramo ferroviario inactivo."
+    },
+    {
+        "text": "Se realizó un simulacro de evacuación en la terminal de ómnibus.",
+        "summary": "Hicieron simulacro de evacuación en la terminal."
+    },
+    {
+        "text": "Las exportaciones de vino crecieron pese a la caída del consumo interno.",
+        "summary": "Exportaciones de vino aumentaron."
+    },
+    {
+        "text": "Un colegio inauguró un laboratorio de ciencia con equipamiento moderno.",
+        "summary": "Colegio estrenó laboratorio de ciencia moderno."
+    },
+    {
+        "text": "Un equipo local clasificó a la final de un torneo continental.",
+        "summary": "Equipo local va a la final continental."
+    },
+    {
+        "text": "La municipalidad plantó más de mil árboles en avenidas principales.",
+        "summary": "Plantan mil árboles en avenidas."
+    },
+    {
+        "text": "Se detectó una falla eléctrica que afectó el funcionamiento del subte.",
+        "summary": "Falla eléctrica afectó al subte."
+    },
+    {
+        "text": "El puerto registró un aumento histórico en el movimiento de contenedores.",
+        "summary": "Sube el movimiento de contenedores en el puerto."
+    },
+    {
+        "text": "Una organización logró recuperar a un cóndor herido en la cordillera.",
+        "summary": "Rescatan a un cóndor herido."
+    },
+    {
+        "text": "Un evento de emprendedores reunió a más de 200 proyectos regionales.",
+        "summary": "Reunieron 200 proyectos en evento emprendedor."
+    },
+    {
+        "text": "La ciudad sumó puestos de hidratación gratuitos por la ola de calor.",
+        "summary": "Instalan puestos de hidratación por el calor."
+    },
+    {
+        "text": "Una exposición fotográfica mostró imágenes inéditas de la Patagonia.",
+        "summary": "Exponen fotos inéditas de la Patagonia."
+    },
+    {
+        "text": "Un acuerdo internacional permitirá mejorar la infraestructura portuaria.",
+        "summary": "Acuerdo internacional mejorará la infraestructura portuaria."
+    },
+    {
+        "text": "El turismo rural creció con nuevas propuestas gastronómicas y culturales.",
+        "summary": "Crece el turismo rural con nuevas propuestas."
+    },
+    {
+        "text": "Una farmacia solidaria repartirá medicamentos a personas sin cobertura.",
+        "summary": "Farmacia solidaria dará medicamentos a gente sin cobertura."
+    },
+    {
+        "text": "El centro meteorológico emitió una alerta por vientos fuertes.",
+        "summary": "Alertan por vientos fuertes."
+    },
+    {
+        "text": "Un nuevo servicio ferroviario conectará ciudades que antes no tenían vínculo directo.",
+        "summary": "Nuevo tren conectará ciudades sin enlace previo."
+    },
+    {
+        "text": "Artistas locales pintaron murales para embellecer estaciones de tren.",
+        "summary": "Pintan murales en estaciones de tren."
+    },
+    {
+        "text": "La producción de miel tuvo un aumento notable por mejores condiciones climáticas.",
+        "summary": "Mejora la producción de miel por el clima."
+    },
+    {
+        "text": "La ciudad sumará un parque lineal con zonas verdes y bicisendas.",
+        "summary": "Construirán un parque lineal con bicisendas."
+    },
+    {
+        "text": "Un centro de innovación abrió un espacio para impulsar proyectos tecnológicos.",
+        "summary": "Abren centro de innovación para proyectos tech."
+    },
+    {
+        "text": "La costa recibió tareas de limpieza tras el aumento de residuos por turismo.",
+        "summary": "Limpian la costa tras aumento de residuos."
+    },
+    {
+        "text": "Un festival de música indie reunió a bandas emergentes de todo el país.",
+        "summary": "Festival indie reunió bandas emergentes."
+    },
+    {
+        "text": "Un acuerdo permitirá ampliar la conectividad aérea con destinos regionales.",
+        "summary": "Ampliarán la conectividad aérea regional."
+    },
+    {
+        "text": "Se inauguró una planta solar que abastecerá a miles de hogares.",
+        "summary": "Inauguran planta solar para miles de hogares."
+    },
+    {
+        "text": "Un refugio animal logró dar en adopción a más de 50 perros en un mes.",
+        "summary": "Refugio dio en adopción 50 perros."
+    },
+    {
+        "text": "Investigadores desarrollaron un método más rápido para detectar virus respiratorios.",
+        "summary": "Crean método rápido para detectar virus."
+    },
+    {
+        "text": "Una banda histórica anunció su regreso a los escenarios tras diez años.",
+        "summary": "Banda histórica vuelve tras diez años."
+    },
+    {
+        "text": "La ciudad incorporará señalización inteligente para mejorar la seguridad vial.",
+        "summary": "Colocarán señalización vial inteligente."
+    },
+    {
+        "text": "Un programa cultural ofrecerá cine al aire libre en varios barrios.",
+        "summary": "Habrá cine al aire libre en varios barrios."
+    },
+    {
+        "text": "Un nuevo informe señaló un crecimiento sostenido del empleo tecnológico.",
+        "summary": "Crece el empleo tecnológico según informe."
+    },
+    {
+        "text": "La feria de diseño reunió a emprendedores de moda y decoración.",
+        "summary": "Feria de diseño reunió a emprendedores."
+    },
+    {
+        "text": "Un grupo de voluntarios restauró juegos infantiles dañados en la plaza central.",
+        "summary": "Voluntarios restauraron juegos de la plaza."
+    },
+    {
+        "text": "Los comercios del centro extenderán su horario por el inicio de la temporada turística.",
+        "summary": "Comercios del centro ampliarán su horario por la temporada."
+    },
+    {
+        "text": "Una investigación mostró que el consumo de frutas aumentó en las escuelas primarias.",
+        "summary": "Crece el consumo de frutas en escuelas primarias."
+    },
+    {
+        "text": "El planetario presentó una nueva función inmersiva sobre galaxias lejanas.",
+        "summary": "El planetario lanzó una función sobre galaxias."
+    },
+    {
+        "text": "Un convenio entre universidades permitirá intercambios académicos internacionales.",
+        "summary": "Acuerdo permitirá intercambios académicos internacionales."
+    },
+    {
+        "text": "El río registró su nivel más bajo en diez años debido a la sequía.",
+        "summary": "El río alcanzó su nivel más bajo en una década."
+    },
+    {
+        "text": "Una cooperativa lanzó una línea de productos orgánicos certificados.",
+        "summary": "Cooperativa lanza productos orgánicos certificados."
+    },
+    {
+        "text": "El centro de salud incorporó un sistema digital para agilizar turnos.",
+        "summary": "Centro de salud digitaliza la gestión de turnos."
+    },
+    {
+        "text": "La autopista tuvo demoras tras un choque múltiple sin heridos graves.",
+        "summary": "Choque múltiple causó demoras en la autopista."
+    },
+    {
+        "text": "Una muestra en el museo exhibe esculturas hechas con materiales reciclados.",
+        "summary": "Museo exhibe esculturas con materiales reciclados."
+    },
+    {
+        "text": "Un nuevo parque solar comenzó a abastecer a pequeños comercios locales.",
+        "summary": "Parque solar abastece a comercios locales."
+    },
+    {
+        "text": "La biblioteca organizó una maratón de lectura para fomentar hábitos lectores.",
+        "summary": "Biblioteca organiza maratón de lectura."
+    },
+    {
+        "text": "Vecinos denunciaron pérdidas de agua que afectan calzadas desde hace semanas.",
+        "summary": "Vecinos denuncian pérdidas de agua persistentes."
+    },
+    {
+        "text": "Un proyecto universitario desarrolló sensores para medir calidad del aire.",
+        "summary": "Universitarios crean sensores de calidad del aire."
+    },
+    {
+        "text": "El comercio electrónico creció un 25% en el último trimestre.",
+        "summary": "E-commerce creció un 25% este trimestre."
+    },
+    {
+        "text": "Una ola de frío provocó cortes de energía por mayor demanda eléctrica.",
+        "summary": "El frío generó cortes por alta demanda eléctrica."
+    },
+    {
+        "text": "La policía rescató a un gato atrapado en una terraza tras el temporal.",
+        "summary": "Rescatan a un gato atrapado por el temporal."
+    },
+    {
+        "text": "El festival de teatro independiente presentó más de 40 obras locales.",
+        "summary": "Festival de teatro independiente mostró 40 obras."
+    },
+    {
+        "text": "Un acuerdo con empresas privadas permitirá ampliar el transporte marítimo.",
+        "summary": "Acuerdo ampliará el transporte marítimo."
+    },
+    {
+        "text": "La nueva aplicación municipal permite reportar incidentes urbanos con fotos.",
+        "summary": "App municipal permite reportar incidentes con fotos."
+    },
+    {
+        "text": "Productores olivícolas celebraron una cosecha récord este año.",
+        "summary": "Olivicultores lograron cosecha récord."
+    },
+    {
+        "text": "El estadio sumó luminarias LED para reducir el consumo energético.",
+        "summary": "El estadio instaló luces LED más eficientes."
+    },
+    {
+        "text": "Una capacitación gratuita enseñará programación a jóvenes sin experiencia previa.",
+        "summary": "Capacitarán gratis en programación a jóvenes."
+    },
+    {
+        "text": "La estación de tren incorporó accesos adaptados para personas con movilidad reducida.",
+        "summary": "Mejoran accesibilidad en la estación de tren."
+    },
+    {
+        "text": "Un evento de astronomía permitió observar el cielo con telescopios profesionales.",
+        "summary": "Jornada astronómica abrió observación con telescopios."
+    },
+    {
+        "text": "La banda municipal lanzó un ciclo de conciertos en plazas barriales.",
+        "summary": "La banda municipal dará conciertos en plazas."
+    },
+    {
+        "text": "El precio del aceite tuvo una leve baja por mayor producción local.",
+        "summary": "El aceite bajó por aumento de producción."
+    },
+    {
+        "text": "Una investigación señala aumento de insectos polinizadores en zonas rurales.",
+        "summary": "Aumentan insectos polinizadores en áreas rurales."
+    },
+    {
+        "text": "El municipio renovó los juegos de una plaza tras reclamos de vecinos.",
+        "summary": "Renuevan juegos de la plaza tras reclamos."
+    },
+    {
+        "text": "La universidad abrió un laboratorio para proyectos de energía renovable.",
+        "summary": "Universidad abre laboratorio de energías renovables."
+    },
+    {
+        "text": "La feria navideña ofrecerá artesanías y comidas típicas durante tres días.",
+        "summary": "Habrá feria navideña con artesanías y comida."
+    },
+    {
+        "text": "Bomberos realizaron un rescate en el cerro tras extravío de dos turistas.",
+        "summary": "Bomberos rescataron a dos turistas extraviados."
+    },
+    {
+        "text": "Un concurso literario recibió más de mil obras de autores emergentes.",
+        "summary": "Concurso literario recibió más de mil obras."
+    },
+    {
+        "text": "La ciudad aprobó un plan para ampliar zonas peatonales del microcentro.",
+        "summary": "Aprobaron ampliar zonas peatonales del centro."
+    },
+    {
+        "text": "Una especie de ave migratoria volvió a la región antes de lo habitual.",
+        "summary": "Ave migratoria regresó antes de lo normal."
+    },
+    {
+        "text": "El centro de reciclaje sumó maquinaria para procesar plásticos duros.",
+        "summary": "Recicladora incorpora máquinas para plásticos duros."
+    },
+    {
+        "text": "Un acuerdo gastronómico promoverá el uso de productos regionales.",
+        "summary": "Impulsan uso de productos regionales en gastronomía."
+    },
+    {
+        "text": "Los estudiantes de primaria visitaron una planta potabilizadora para aprender sobre el agua.",
+        "summary": "Alumnos visitaron planta potabilizadora."
+    },
+    {
+        "text": "El turismo en la sierra creció impulsado por nuevas actividades familiares.",
+        "summary": "Crece el turismo serrano por nuevas actividades."
+    },
+    {
+        "text": "Una escuela técnica desarrolló un prototipo de invernadero inteligente.",
+        "summary": "Escuela técnica crea invernadero inteligente."
+    },
+    {
+        "text": "La empresa ferroviaria anunció mejoras en los vagones para aumentar la seguridad.",
+        "summary": "Mejorarán vagones ferroviarios para mayor seguridad."
+    },
+    {
+        "text": "Un operativo de tránsito sacó de circulación a autos sin documentación.",
+        "summary": "Operativo retiró autos sin papeles."
+    },
+    {
+        "text": "El parque nacional registró un aumento de avistamientos de fauna nativa.",
+        "summary": "Aumentan avistamientos de fauna nativa."
+    },
+    {
+        "text": "La ciudad instalará bebederos públicos en avenidas principales.",
+        "summary": "Colocarán bebederos públicos en avenidas."
+    },
+    {
+        "text": "Un grupo de artistas creó instalaciones visuales en un túnel peatonal.",
+        "summary": "Artistas montan instalaciones en túnel peatonal."
+    },
+    {
+        "text": "Una encuesta indicó que crece el hábito de usar bicicleta para ir al trabajo.",
+        "summary": "Más gente usa la bicicleta para ir al trabajo."
+    },
+    {
+        "text": "El zoológico implementó un programa para mejorar el bienestar animal.",
+        "summary": "Zoológico lanza programa de bienestar animal."
+    },
+    {
+        "text": "La provincia ampliará la red de transporte escolar para zonas rurales.",
+        "summary": "Ampliarán transporte escolar en áreas rurales."
+    },
+    {
+        "text": "Se registró un descenso de accidentes viales tras nueva señalización.",
+        "summary": "Bajaron los accidentes tras nueva señalización."
+    },
+    {
+        "text": "El centro cultural ofrecerá talleres de verano para niños y adolescentes.",
+        "summary": "Centro cultural dará talleres de verano."
+    },
+    {
+        "text": "Un estudio detectó mejoras en la calidad del agua tras controles estrictos.",
+        "summary": "Mejora la calidad del agua tras controles."
+    },
+    {
+        "text": "Una patrulla costera rescató a un pescador que había caído al mar.",
+        "summary": "Rescatan a un pescador caído al mar."
+    },
+    {
+        "text": "Un curso municipal enseñará huerta urbana para principiantes.",
+        "summary": "Ofrecen curso de huerta urbana para principiantes."
+    },
+    {
+        "text": "El servicio meteorológico anticipó lluvias intensas para la madrugada.",
+        "summary": "Pronostican lluvias intensas para la madrugada."
+    },
+    {
+        "text": "Una fábrica local incorporó robots para tareas de ensamblaje.",
+        "summary": "Fábrica suma robots para ensamblaje."
+    },
+    {
+        "text": "Las exportaciones de cítricos aumentaron por mayor demanda regional.",
+        "summary": "Suben las exportaciones de cítricos."
+    },
+    {
+        "text": "La ciudad instaló iluminación nueva en el paseo costero.",
+        "summary": "Renuevan la iluminación del paseo costero."
+    },
+    {
+        "text": "Científicos publicaron un estudio sobre el impacto del microplástico en peces.",
+        "summary": "Estudio analiza el efecto del microplástico en peces."
+    },
+    {
+        "text": "Una feria de vinos reunió a bodegas pequeñas de todo el país.",
+        "summary": "Feria de vinos reunió a bodegas pequeñas."
+    },
+    {
+        "text": "El teatro lanzó talleres gratuitos para adultos mayores.",
+        "summary": "Teatro ofrecerá talleres gratis para adultos mayores."
+    },
+    {
+        "text": "Un nuevo sistema agilizará el pago de impuestos con turnos online.",
+        "summary": "Implementan sistema de impuestos con turnos online."
+    },
+    {
+        "text": "La ciudad sumará cámaras lectoras de patentes en accesos principales.",
+        "summary": "Instalan cámaras lectoras de patentes."
+    },
+    {
+        "text": "Una fundación donó materiales escolares a niños de barrios vulnerables.",
+        "summary": "Fundación dona útiles a niños vulnerables."
+    },
+    {
+        "text": "Un informe reveló mejora en la calidad del aire después de restricciones vehiculares.",
+        "summary": "La calidad del aire mejora tras restricciones."
+    },
+    {
+        "text": "Una empresa local abrió un centro de logística para envíos nacionales.",
+        "summary": "Empresa inaugura centro de logística nacional."
+    },
+    {
+        "text": "El parque industrial incorporará nuevas empresas tecnológicas este año.",
+        "summary": "Parque industrial sumará empresas tecnológicas."
+    },
+    {
+        "text": "Vecinos plantaron árboles para recuperar una zona dañada por el viento.",
+        "summary": "Vecinos plantan árboles para recuperar la zona."
+    },
+    {
+        "text": "Una exposición de autos antiguos atrajo a cientos de aficionados.",
+        "summary": "Exposición de autos antiguos convocó a cientos."
+    },
+    {
+        "text": "El tren incorporó asientos adaptados para personas con movilidad reducida.",
+        "summary": "Tren suma asientos adaptados."
+    },
+    {
+        "text": "Una tormenta eléctrica provocó daños en antenas de telecomunicaciones.",
+        "summary": "Tormenta dañó antenas de telecomunicaciones."
+    },
+    {
+        "text": "La ciudad ampliará su programa de castración gratuita para mascotas.",
+        "summary": "Amplían castración gratuita de mascotas."
+    },
+    {
+        "text": "La producción de café local creció impulsada por nuevas técnicas agrícolas.",
+        "summary": "Crece la producción local de café."
+    },
+    {
+        "text": "Actores locales estrenaron una obra inspirada en historias reales del barrio.",
+        "summary": "Estrenan obra basada en relatos barriales."
+    },
+    {
+        "text": "El aeropuerto sumará nuevas rutas de conexión con países limítrofes.",
+        "summary": "Aeropuerto tendrá nuevas rutas regionales."
+    },
+    {
+        "text": "Una campaña de donación logró reunir alimentos para familias necesitadas.",
+        "summary": "Campaña reunió alimentos para familias vulnerables."
+    },
+    {
+        "text": "Investigadores encontraron restos fósiles de un mamífero poco conocido.",
+        "summary": "Hallan fósiles de un mamífero poco conocido."
+    },
+    {
+        "text": "La escuela de arte abrió inscripciones para cursos intensivos de verano.",
+        "summary": "Escuela de arte abre cursos intensivos."
+    },
+    {
+        "text": "Un programa de empleo ofreció capacitaciones para jóvenes desocupados.",
+        "summary": "Programa ofrece capacitación laboral a jóvenes."
+    },
+    {
+        "text": "Se inauguró un centro de interpretación ambiental en la reserva natural.",
+        "summary": "Inauguran centro ambiental en la reserva."
+    },
+    {
+        "text": "La ciudad implementó un sistema para monitorear el uso de bicicletas públicas.",
+        "summary": "Monitorean el uso de bicicletas públicas."
+    },
+    {
+        "text": "La banda juvenil presentó su primer disco en un evento local.",
+        "summary": "Banda juvenil lanzó su primer disco."
+    },
+    {
+        "text": "Un estudio reveló que el ruido urbano disminuyó en zonas despejadas de tránsito.",
+        "summary": "El ruido urbano bajó en zonas con menos tránsito."
+    },
+    {
+        "text": "La provincia lanzó programas de apoyo para productores de miel.",
+        "summary": "Lanzan programas para apicultores."
+    },
+    {
+        "text": "Una campaña escolar reunió juguetes para donar en el día de la niñez.",
+        "summary": "Escuela junta juguetes para el día de la niñez."
+    },
+    {
+        "text": "Los bomberos realizaron tareas preventivas para evitar incendios rurales.",
+        "summary": "Bomberos realizan tareas preventivas rurales."
+    },
+    {
+        "text": "La ciudad recuperó un edificio histórico para actividades culturales.",
+        "summary": "Recuperan edificio histórico para cultura."
+    },
+    {
+        "text": "Un grupo de investigadores desarrolló un detector de radiación portátil.",
+        "summary": "Crean detector portátil de radiación."
+    },
+    {
+        "text": "Un torneo barrial de fútbol reunió a más de veinte equipos juveniles.",
+        "summary": "Torneo barrial reunió 20 equipos juveniles."
+    },
+    {
+        "text": "El servicio de colectivos extenderá sus recorridos durante el verano.",
+        "summary": "Colectivos extenderán recorridos en verano."
+    },
+    {
+        "text": "Una nueva plaza fue inaugurada con áreas recreativas y deportivas.",
+        "summary": "Inauguran plaza con zonas recreativas."
+    },
+    {
+        "text": "Una escultura gigante hecha por artistas locales fue instalada en la costa.",
+        "summary": "Instalan escultura gigante en la costa."
+    },
+    {
+        "text": "La ciudad registró un aumento de turistas por eventos culturales recientes.",
+        "summary": "Sube el turismo por eventos culturales."
+    },
+    {
+        "text": "El sector tecnológico anunció nuevas oportunidades laborales en la región.",
+        "summary": "El sector tech ofrecerá más empleos."
+    },
+    {
+        "text": "Una aplicación permitirá seguir en tiempo real el tránsito vehicular.",
+        "summary": "Nueva app muestra tránsito en tiempo real."
+    },
+    {
+        "text": "Un operativo conjunto decomisó bebidas alcohólicas vendidas ilegalmente.",
+        "summary": "Operativo decomisa alcohol ilegal."
+    },
+    {
+        "text": "Los científicos registraron una mejora en los suelos tras programas de conservación.",
+        "summary": "Mejoran suelos gracias a programas de conservación."
+    },
+    {
+        "text": "Una empresa donó computadoras a un centro comunitario para talleres digitales.",
+        "summary": "Empresa dona computadoras a centro comunitario."
+    },
+    {
+        "text": "Un estudio mostró que aumentó el uso del transporte público los fines de semana.",
+        "summary": "Crece el uso del transporte público en fines de semana."
+    },
+    {
+        "text": "La ciudad instaló tótems informativos con mapas y puntos turísticos.",
+        "summary": "Instalan tótems turísticos informativos."
+    },
+    {
+        "text": "Una banda local dará un show benéfico para recaudar fondos escolares.",
+        "summary": "Banda local dará show benéfico escolar."
+    },
+    {
+        "text": "El programa ambiental registró avances en la restauración de humedales.",
+        "summary": "Avanza la restauración de humedales."
+    },
+    {
+        "text": "La biblioteca escolar recibió donaciones de novelas juveniles modernas.",
+        "summary": "Donan novelas juveniles a biblioteca escolar."
+    },
+    {
+        "text": "Una fábrica inició un plan de reciclaje interno para reducir residuos.",
+        "summary": "Fábrica implementa plan de reciclaje interno."
+    },
+    {
+        "text": "La municipalidad inauguró un nuevo centro cultural con talleres gratuitos para jóvenes.",
+        "summary": "Abrieron un centro cultural con talleres para jóvenes."
+    },
+    {
+        "text": "Un equipo de investigadores argentinos desarrolló un sensor capaz de detectar humedad en cultivos.",
+        "summary": "Investigadores crean sensor para medir humedad en cultivos."
+    },
+    {
+        "text": "El aeropuerto registró demoras por la niebla intensa durante la mañana.",
+        "summary": "Niebla causó demoras en el aeropuerto."
+    },
+    {
+        "text": "Vecinos denunciaron ruidos molestos de una fábrica que trabaja de noche.",
+        "summary": "Vecinos reclaman por ruidos nocturnos de una fábrica."
+    },
+    {
+        "text": "Una banda de música local lanzó su primer álbum en plataformas digitales.",
+        "summary": "Banda local publicó su álbum debut online."
+    },
+    {
+        "text": "El hospital incorporó tecnología para agilizar el registro de pacientes.",
+        "summary": "Nuevo sistema agiliza el registro en el hospital."
+    },
+    {
+        "text": "La policía rescató a un ciclista que se perdió en un sendero rural.",
+        "summary": "Rescatan a ciclista extraviado en zona rural."
+    },
+    {
+        "text": "Una nueva campaña busca fomentar la adopción responsable de mascotas.",
+        "summary": "Campaña promueve adopción responsable de mascotas."
+    },
+    {
+        "text": "El servicio de colectivos sumará unidades para reducir la espera en horas pico.",
+        "summary": "Agregan colectivos para mejorar la frecuencia en horas pico."
+    },
+    {
+        "text": "Una tormenta eléctrica provocó cortes intermitentes en varios barrios.",
+        "summary": "Tormenta generó cortes de luz en distintos barrios."
+    },
+    {
+        "text": "Lanzaron un concurso literario abierto a escritores de toda la región.",
+        "summary": "Presentan concurso literario regional."
+    },
+    {
+        "text": "Productores rurales reclamaron por el aumento en los costos del combustible.",
+        "summary": "Productores protestan por suba del combustible."
+    },
+    {
+        "text": "Una empresa tecnológica anunció la creación de cien nuevos puestos de trabajo.",
+        "summary": "Empresa tech generará cien empleos."
+    },
+    {
+        "text": "Los centros de salud ampliaron el horario de vacunación para mayores.",
+        "summary": "Extienden horarios de vacunación para adultos mayores."
+    },
+    {
+        "text": "Una feria gastronómica reunió a cocineros locales durante el fin de semana.",
+        "summary": "Feria gastronómica convocó a cocineros locales."
+    },
+    {
+        "text": "Un incendio forestal fue controlado tras horas de trabajo de los bomberos.",
+        "summary": "Bomberos controlaron un incendio forestal."
+    },
+    {
+        "text": "El sindicato docente confirmó un paro de 24 horas por reclamos salariales.",
+        "summary": "Docentes realizarán paro de 24 horas."
+    },
+    {
+        "text": "Una ONG organizó una colecta de útiles escolares para familias vulnerables.",
+        "summary": "ONG junta útiles para familias vulnerables."
+    },
+    {
+        "text": "Un deportista local ganó una medalla en un torneo internacional de natación.",
+        "summary": "Nadador local obtuvo medalla internacional."
+    },
+    {
+        "text": "Científicos descubrieron un nuevo método para reciclar plásticos más rápido.",
+        "summary": "Descubren técnica que acelera el reciclaje de plásticos."
+    },
+    {
+        "text": "Un grupo de estudiantes desarrolló una app para facilitar el acceso a becas.",
+        "summary": "Estudiantes crean app para encontrar becas."
+    },
+    {
+        "text": "Una exposición de fotografía reunió imágenes históricas de la ciudad.",
+        "summary": "Exponen fotos históricas de la ciudad."
+    },
+    {
+        "text": "El gobierno anunció obras para mejorar el abastecimiento de agua potable.",
+        "summary": "Anuncian obras para mejorar el suministro de agua."
+    },
+    {
+        "text": "Un reconocido chef brindó una clase magistral en un evento local.",
+        "summary": "Chef dictó una clase magistral en la ciudad."
+    },
+    {
+        "text": "Las ventas navideñas registraron un aumento respecto al año anterior.",
+        "summary": "Suben las ventas navideñas."
+    },
+    {
+        "text": "Un grupo de arqueólogos halló restos de una construcción antigua en la zona.",
+        "summary": "Arqueólogos encuentran restos de construcción antigua."
+    },
+    {
+        "text": "La biblioteca pública sumó libros donados por editoriales nacionales.",
+        "summary": "Editoriales donan libros a la biblioteca."
+    },
+    {
+        "text": "Una tormenta dejó calles anegadas y complicó el tránsito matinal.",
+        "summary": "Tormenta anegó calles y complicó el tránsito."
+    },
+    {
+        "text": "Autoridades sanitarias alertaron sobre un aumento de casos de gripe.",
+        "summary": "Advierten por suba de casos de gripe."
+    },
+    {
+        "text": "Se realizó un festival solidario para recaudar fondos para un comedor.",
+        "summary": "Festival solidario recaudó fondos para un comedor."
+    },
+    {
+        "text": "Un nuevo servicio de bicicletas públicas fue habilitado en el centro.",
+        "summary": "Habilitan sistema de bicicletas públicas."
+    },
+    {
+        "text": "Investigadores desarrollaron un algoritmo para mejorar la eficiencia energética.",
+        "summary": "Crean algoritmo que mejora la eficiencia energética."
+    },
+    {
+        "text": "Se habilitó un corredor peatonal para promover el comercio local.",
+        "summary": "Abren corredor peatonal para impulsar comercios."
+    },
+    {
+        "text": "Un estudio reveló que el teletrabajo aumentó la productividad en pymes.",
+        "summary": "Teletrabajo elevó la productividad en pymes."
+    },
+    {
+        "text": "Un supermercado lanzó descuentos especiales para jubilados.",
+        "summary": "Supermercado ofrece descuentos a jubilados."
+    },
+    {
+        "text": "La ciudad alojará un encuentro internacional de ciencia y tecnología.",
+        "summary": "Anuncian encuentro internacional de ciencia y tecnología."
+    },
+    {
+        "text": "Bomberos rescataron a un perro atrapado en una terraza.",
+        "summary": "Bomberos salvaron a un perro atrapado."
+    },
+    {
+        "text": "Una escuela instaló paneles solares para reducir el consumo eléctrico.",
+        "summary": "Escuela incorpora paneles solares."
+    },
+    {
+        "text": "El cine local presentó una muestra de películas restauradas.",
+        "summary": "Cine exhibe películas restauradas."
+    },
+    {
+        "text": "Una campaña de donación de sangre logró superar la meta prevista.",
+        "summary": "Campaña de donación superó su objetivo."
+    },
+    {
+        "text": "Un grupo de jóvenes organiza talleres de robótica para niños del barrio.",
+        "summary": "Jóvenes dictan talleres de robótica para chicos."
+    },
+    {
+        "text": "La autopista registró demoras por un accidente múltiple.",
+        "summary": "Accidente múltiple causó demoras en la autopista."
+    },
+    {
+        "text": "Se confirmó la reapertura del teatro tras meses de refacciones.",
+        "summary": "Reabrirá el teatro luego de refacciones."
+    },
+    {
+        "text": "Un informe destacó el crecimiento del turismo regional en invierno.",
+        "summary": "Crece el turismo regional en invierno."
+    },
+    {
+        "text": "El club local inauguró una cancha sintética para entrenamiento.",
+        "summary": "Club estrena cancha sintética."
+    },
+    {
+        "text": "Un estudio mostró que los jóvenes leen más libros digitales que impresos.",
+        "summary": "Jóvenes prefieren libros digitales."
+    },
+    {
+        "text": "Lanzaron una tarjeta de beneficios para usuarios del transporte público.",
+        "summary": "Presentan tarjeta con beneficios para el transporte."
+    },
+    {
+        "text": "Una obra vial obligó a desviar el tránsito en el acceso norte.",
+        "summary": "Desvían tránsito por obra vial en el acceso norte."
+    },
+    {
+        "text": "La universidad abrió inscripciones para cursos de verano.",
+        "summary": "Universidad habilitó cursos de verano."
+    },
+    {
+        "text": "Un restaurante local ganó un premio por su propuesta sustentable.",
+        "summary": "Restaurante recibe premio por sustentabilidad."
+    },
+    {
+        "text": "El mercado central registró una baja en el precio de las verduras.",
+        "summary": "Bajan los precios de verduras en el mercado central."
+    },
+    {
+        "text": "Se realizó una caminata familiar para promover hábitos saludables.",
+        "summary": "Caminata promueve hábitos saludables."
+    },
+    {
+        "text": "Un grupo de artistas pintó murales en homenaje a músicos locales.",
+        "summary": "Artistas crean murales en homenaje a músicos."
+    },
+    {
+        "text": "La ciudad fue sede de una competencia regional de ciclismo.",
+        "summary": "Realizan competencia regional de ciclismo."
+    },
+    {
+        "text": "Un apagón afectó a varios comercios durante la tarde.",
+        "summary": "Apagón impactó en comercios de la zona."
+    },
+    {
+        "text": "Reabrió una heladería tradicional tras meses de reformas.",
+        "summary": "Heladería tradicional reabrió tras reformas."
+    },
+    {
+        "text": "Una app local permite denunciar baches con fotos y ubicación.",
+        "summary": "Nueva app permite reportar baches."
+    },
+    {
+        "text": "El municipio plantó nuevos árboles en un parque renovado.",
+        "summary": "Plantan árboles en parque renovado."
+    },
+    {
+        "text": "Un recital gratuito convocó a cientos de jóvenes en la costanera.",
+        "summary": "Recital gratuito reunió a cientos en la costanera."
+    },
+    {
+        "text": "Una colecta de alimentos reunió donaciones para familias afectadas por la lluvia.",
+        "summary": "Colecta reúne alimentos para familias afectadas."
+    },
+    {
+        "text": "El sistema de estacionamiento medido sumará nuevas zonas.",
+        "summary": "Ampliarán el estacionamiento medido."
+    },
+    {
+        "text": "Una empresa anunció planes para producir vehículos eléctricos.",
+        "summary": "Empresa producirá vehículos eléctricos."
+    },
+    {
+        "text": "Un centro de investigación publicó avances en estudios de energías limpias.",
+        "summary": "Centro reporta avances en energías limpias."
+    },
+    {
+        "text": "Un coro infantil brindó una presentación en el teatro municipal.",
+        "summary": "Coro infantil actuó en el teatro municipal."
+    },
+    {
+        "text": "La feria del libro local tendrá autores invitados de distintos países.",
+        "summary": "Feria del libro contará con autores internacionales."
+    },
+    {
+        "text": "Un corte programado afectará el suministro de agua en varios barrios.",
+        "summary": "Habrá corte de agua programado en la ciudad."
+    },
+    {
+        "text": "Un nuevo servicio de entrega de comida promete reducir tiempos de espera.",
+        "summary": "Nuevo delivery busca reducir tiempos de entrega."
+    },
+    {
+        "text": "Una tormenta de granizo dañó techos y autos en la zona norte.",
+        "summary": "Granizo provoca daños en zona norte."
+    },
+    {
+        "text": "El zoológico presentó un programa de visitas nocturnas.",
+        "summary": "Zoológico ofrece visitas nocturnas."
+    },
+    {
+        "text": "Una obra teatral independiente agotó entradas en su estreno.",
+        "summary": "Obra independiente agota entradas en estreno."
+    },
+    {
+        "text": "La costanera fue escenario de una maratón benéfica.",
+        "summary": "Realizan maratón benéfica en la costanera."
+    },
+    {
+        "text": "Un estudio reveló que bajó el consumo de plásticos de un solo uso.",
+        "summary": "Disminuye el uso de plásticos descartables."
+    },
+    {
+        "text": "Una escuela técnica exhibió proyectos de automatización hechos por alumnos.",
+        "summary": "Alumnos presentan proyectos de automatización."
+    },
+    {
+        "text": "Un puente fue cerrado temporalmente por tareas de mantenimiento.",
+        "summary": "Cierran puente por mantenimiento."
+    },
+    {
+        "text": "Una marca deportiva lanzó una línea de ropa hecha con materiales reciclados.",
+        "summary": "Marca lanza ropa fabricada con reciclados."
+    },
+    {
+        "text": "Un concurso de dibujo escolar reunió obras de estudiantes de toda la ciudad.",
+        "summary": "Concurso de dibujo convocó a estudiantes locales."
+    },
+    {
+        "text": "Se reportó un leve aumento en la actividad volcánica en la región.",
+        "summary": "Detectan incremento en la actividad volcánica."
+    },
+    {
+        "text": "Una colonia de vacaciones abrió inscripciones con cupos limitados.",
+        "summary": "Colonia de vacaciones abre inscripción."
+    },
+    {
+        "text": "El centro de jubilados organizó un torneo de ajedrez abierto al público.",
+        "summary": "Centro de jubilados organiza torneo de ajedrez."
+    },
+    {
+        "text": "Un festival de teatro callejero animó las plazas del distrito.",
+        "summary": "Festival de teatro callejero ocupó las plazas."
+    },
+    {
+        "text": "Un acuerdo entre bancos permitirá reducir comisiones en transferencias.",
+        "summary": "Bancos acuerdan bajar comisiones."
+    },
+    {
+        "text": "Una panadería lanzó una línea de productos aptos para celíacos.",
+        "summary": "Panadería ofrece productos sin gluten."
+    },
+    {
+        "text": "Un curso gratuito de fotografía fue anunciado en el centro cultural.",
+        "summary": "Centro cultural dará curso gratuito de fotografía."
+    },
+    {
+        "text": "Una nueva línea de colectivos conectará barrios periféricos con el centro.",
+        "summary": "Crean línea de colectivos hacia el centro."
+    },
+    {
+        "text": "Un estudio mostró que creció el uso de bicicletas en la ciudad.",
+        "summary": "Aumenta el uso de bicicletas en la ciudad."
+    },
+    {
+        "text": "El parque industrial sumará una planta dedicada al reciclaje electrónico.",
+        "summary": "Parque industrial abrirá planta de reciclaje electrónico."
+    },
+    {
+        "text": "Un festival de cine proyectó cortos de directores emergentes.",
+        "summary": "Festival exhibe cortometrajes de nuevos directores."
+    },
+    {
+        "text": "La policía recuperó herramientas robadas en una serie de allanamientos.",
+        "summary": "Recuperan herramientas robadas en allanamientos."
+    },
+    {
+        "text": "Una banda escolar participó en un desfile regional.",
+        "summary": "Banda escolar desfila en evento regional."
+    },
+    {
+        "text": "Se instaló un nuevo semáforo inteligente en un cruce conflictivo.",
+        "summary": "Colocan semáforo inteligente en cruce peligroso."
+    },
+    {
+        "text": "Una startup local desarrolló un sistema para monitorear huertas urbanas.",
+        "summary": "Startup crea sistema para monitorear huertas."
+    },
+    {
+        "text": "Una feria de empleo ofreció talleres de armado de CV y entrevistas.",
+        "summary": "Feria de empleo brinda talleres de búsqueda laboral."
+    },
+    {
+        "text": "Una obra de teatro infantil fue presentada en varias escuelas.",
+        "summary": "Obra infantil se presentó en escuelas."
+    },
+    {
+        "text": "Se rehabilitó un sendero natural para actividades recreativas.",
+        "summary": "Rehabilitan sendero para actividades recreativas."
+    },
+    {
+        "text": "Un grupo scout recolectó basura en una jornada ambiental.",
+        "summary": "Scouts realizan limpieza ambiental."
+    },
+    {
+        "text": "La universidad presentó un programa de becas para carreras científicas.",
+        "summary": "Universidad lanza becas para carreras científicas."
+    },
+    {
+        "text": "Una fábrica local exportará sus productos a nuevos mercados europeos.",
+        "summary": "Fábrica ampliará exportaciones a Europa."
+    },
+    {
+        "text": "Un equipo de estudiantes ganó un premio por un robot autónomo.",
+        "summary": "Estudiantes ganan premio por robot autónomo."
+    },
+    {
+        "text": "La ciudad incorporó estaciones de carga para autos eléctricos.",
+        "summary": "Instalan cargadores para autos eléctricos."
+    },
+    {
+        "text": "El municipio lanzó un programa para mejorar la iluminación en barrios periféricos.",
+        "summary": "Lanzan plan para mejorar iluminación en barrios."
+    },
+    {
+        "text": "Una muestra de arte digital reunió obras creadas con inteligencia artificial.",
+        "summary": "Exponen arte digital hecho con IA."
+    },
+    {
+        "text": "La policía secuestró vehículos abandonados que obstaculizaban la vía pública.",
+        "summary": "Retiran autos abandonados de la vía pública."
+    },
+    {
+        "text": "Vecinos organizaron una feria de ropa usada para financiar proyectos comunitarios.",
+        "summary": "Vecinos realizan feria para recaudar fondos."
+    },
+    {
+        "text": "Un grupo de astrónomos detectó una nueva estrella variable en la constelación de Orión.",
+        "summary": "Astrónomos descubren estrella variable en Orión."
+    },
+    {
+        "text": "La costanera sumó nuevos bancos y luminarias tras trabajos de refacción.",
+        "summary": "Renuevan mobiliario y luces en la costanera."
+    },
+    {
+        "text": "Una banda juvenil lanzó un videoclip grabado íntegramente con celulares.",
+        "summary": "Banda juvenil presenta videoclip filmado con celulares."
+    },
+    {
+        "text": "Se habilitó un punto de reciclaje móvil que recorrerá distintos barrios.",
+        "summary": "Habilitan punto de reciclaje móvil."
+    },
+    {
+        "text": "Una tormenta provocó la caída de árboles en avenidas principales.",
+        "summary": "Tormenta derribó árboles en avenidas."
+    },
+    {
+        "text": "El club de lectura local abrió inscripciones para nuevos participantes.",
+        "summary": "Club de lectura abre inscripciones."
+    },
+    {
+        "text": "Artesanos realizaron una feria en la plaza principal durante el fin de semana.",
+        "summary": "Artesanos exponen en feria de la plaza."
+    },
+    {
+        "text": "Un operativo de tránsito controló motos sin documentación en regla.",
+        "summary": "Operativo controla motos sin papeles."
+    },
+    {
+        "text": "La ciudad recibió a turistas por un festival gastronómico regional.",
+        "summary": "Turistas llegan por festival gastronómico."
+    },
+    {
+        "text": "Una investigadora publicó un estudio sobre el impacto del ruido urbano en la salud.",
+        "summary": "Estudio analiza efectos del ruido urbano."
+    },
+    {
+        "text": "El puerto registró un récord de descarga de pescado en la última semana.",
+        "summary": "Puerto marca récord de descarga de pescado."
+    },
+    {
+        "text": "Se presentó una guía de turismo rural con nuevos recorridos y actividades.",
+        "summary": "Lanzan guía de turismo rural."
+    },
+    {
+        "text": "Un colegio privado instaló sistemas de recolección de agua de lluvia.",
+        "summary": "Colegio implementa captación de agua de lluvia."
+    },
+    {
+        "text": "Un grupo de científicos desarrolló un sistema para detectar terremotos con mayor precisión.",
+        "summary": "Científicos mejoran detección de terremotos."
+    },
+    {
+        "text": "La biblioteca barrial inauguró un espacio de lectura al aire libre.",
+        "summary": "Biblioteca abre zona de lectura al aire libre."
+    },
+    {
+        "text": "Un deportista paralímpico local clasificó a un torneo internacional.",
+        "summary": "Atleta paralímpico clasifica a torneo internacional."
+    },
+    {
+        "text": "Se iniciaron obras para ampliar la red de cloacas en la zona oeste.",
+        "summary": "Comienzan obras para ampliar cloacas en zona oeste."
+    },
+    {
+        "text": "La policía detuvo a dos personas por robo de cables en la vía pública.",
+        "summary": "Detienen a dos por robo de cables."
+    },
+    {
+        "text": "Una escuela rural celebró su aniversario con actividades para toda la comunidad.",
+        "summary": "Escuela rural festeja aniversario con la comunidad."
+    },
+    {
+        "text": "Investigadores locales estudian el comportamiento migratorio de aves costeras.",
+        "summary": "Estudian migración de aves costeras."
+    },
+    {
+        "text": "Se dictó un taller gratuito de primeros auxilios en el centro cultural.",
+        "summary": "Taller gratuito enseña primeros auxilios."
+    },
+    {
+        "text": "Un mural comunitario fue pintado en homenaje a docentes del barrio.",
+        "summary": "Pintan mural en homenaje a docentes."
+    },
+    {
+        "text": "Autoridades recorrieron obras de pavimentación en la zona norte.",
+        "summary": "Supervisan obras de pavimentación en zona norte."
+    },
+    {
+        "text": "Una panadería local donó alimentos a un comedor infantil.",
+        "summary": "Panadería dona alimentos a comedor infantil."
+    },
+    {
+        "text": "El planetario transmitió en vivo un eclipse para estudiantes de la ciudad.",
+        "summary": "Planetario transmite eclipse para alumnos."
+    },
+    {
+        "text": "Una bodega presentó una nueva línea de vinos elaborados artesanalmente.",
+        "summary": "Bodega lanza vinos artesanales."
+    },
+    {
+        "text": "El aeropuerto modernizó su sistema de control para mejorar la seguridad.",
+        "summary": "Aeropuerto moderniza sistema de control."
+    },
+    {
+        "text": "Vecinos plantaron árboles nativos en una jornada ambiental.",
+        "summary": "Vecinos plantan árboles nativos."
+    },
+    {
+        "text": "Una cooperativa lanzó un servicio de internet comunitario de bajo costo.",
+        "summary": "Cooperativa ofrece internet económico."
+    },
+    {
+        "text": "Un estudio mostró que aumentó el uso de energías renovables en hogares urbanos.",
+        "summary": "Crece el uso de energías renovables en hogares."
+    },
+    {
+        "text": "La municipalidad limpió un basural clandestino que generaba quejas vecinales.",
+        "summary": "Retiran basural clandestino tras reclamos."
+    },
+    {
+        "text": "Un coro juvenil participó en un encuentro provincial.",
+        "summary": "Coro juvenil asiste a encuentro provincial."
+    },
+    {
+        "text": "La ciudad presentó un programa para mantener espacios verdes durante el verano.",
+        "summary": "Lanzan programa de mantenimiento de espacios verdes."
+    },
+    {
+        "text": "Una heladería estrenó sabores inspirados en frutas autóctonas.",
+        "summary": "Heladería lanza sabores con frutas locales."
+    },
+    {
+        "text": "Un grupo de estudiantes construyó una estación meteorológica artesanal.",
+        "summary": "Estudiantes crean estación meteorológica casera."
+    },
+    {
+        "text": "Un ciclo de cine gratuito proyectará clásicos restaurados.",
+        "summary": "Ciclo de cine gratis proyecta clásicos."
+    },
+    {
+        "text": "Se registró una suba en la venta de bicicletas plegables en la ciudad.",
+        "summary": "Aumentan ventas de bicicletas plegables."
+    },
+    {
+        "text": "Una feria de diseño convocó a emprendedores locales.",
+        "summary": "Feria de diseño reúne a emprendedores."
+    },
+    {
+        "text": "Un nuevo radar controlará la velocidad en avenidas muy transitadas.",
+        "summary": "Instalan radar para controlar velocidad."
+    },
+    {
+        "text": "Una encuesta reveló que crecieron las actividades culturales en barrios periféricos.",
+        "summary": "Aumentan actividades culturales en barrios."
+    },
+    {
+        "text": "Se habilitó un punto de hidratación para deportistas en la costanera.",
+        "summary": "Habilitan puesto de hidratación en la costanera."
+    },
+    {
+        "text": "Un operativo sanitario vacunó a más de mil personas en dos días.",
+        "summary": "Vacunan a mil personas en operativo sanitario."
+    },
+    {
+        "text": "Una escuela inauguró un laboratorio de informática con nuevos equipos.",
+        "summary": "Escuela estrena laboratorio de informática."
+    },
+    {
+        "text": "El teatro municipal abrirá talleres de actuación para todas las edades.",
+        "summary": "Teatro ofrecerá talleres de actuación."
+    },
+    {
+        "text": "Un grupo de ciclistas realizó una travesía solidaria de larga distancia.",
+        "summary": "Ciclistas completan travesía solidaria."
+    },
+    {
+        "text": "Un taller de huerta urbana enseñó a cultivar vegetales en balcones.",
+        "summary": "Taller enseña a cultivar en balcones."
+    },
+    {
+        "text": "Un mercado itinerante ofrecerá productos frescos en distintos barrios.",
+        "summary": "Mercado itinerante venderá productos frescos."
+    },
+    {
+        "text": "El servicio meteorológico anunció un frente frío con fuertes vientos.",
+        "summary": "Pronostican frente frío con vientos fuertes."
+    },
+    {
+        "text": "Una escuela de danza presentó su espectáculo anual en el auditorio local.",
+        "summary": "Escuela de danza realiza show anual."
+    },
+    {
+        "text": "Una empresa local desarrolló un sistema de pago sin contacto para comercios.",
+        "summary": "Empresa crea sistema de pago sin contacto."
+    },
+    {
+        "text": "Un grupo de montañistas limpió senderos afectados por la erosión.",
+        "summary": "Montañistas limpian senderos erosionados."
+    },
+    {
+        "text": "Juego de escape educativo fue implementado para enseñar historia local.",
+        "summary": "Implementan escape room educativo sobre historia."
+    },
+    {
+        "text": "Una colecta de abrigo reunió prendas para personas en situación de calle.",
+        "summary": "Colecta junta abrigo para personas sin hogar."
+    },
+    {
+        "text": "El parque nacional registró un aumento de visitantes durante las vacaciones.",
+        "summary": "Crece la visita al parque nacional."
+    },
+    {
+        "text": "Una banda de rock local grabó un álbum en vivo en un bar céntrico.",
+        "summary": "Banda local graba álbum en vivo."
+    },
+    {
+        "text": "El museo abrió una sala dedicada a arte contemporáneo.",
+        "summary": "Museo inaugura sala de arte contemporáneo."
+    },
+    {
+        "text": "Una empresa presentó bicicletas eléctricas para uso urbano.",
+        "summary": "Presentan bicicletas eléctricas urbanas."
+    },
+    {
+        "text": "Un curso de oratoria brindó herramientas para hablar en público.",
+        "summary": "Curso de oratoria enseña a hablar en público."
+    },
+    {
+        "text": "Se reemplazaron luminarias antiguas por luces LED en plazas del centro.",
+        "summary": "Sustituyen luminarias por LED en plazas."
+    },
+    {
+        "text": "Un operativo de limpieza retiró más de veinte toneladas de residuos.",
+        "summary": "Retiran veinte toneladas de residuos en operativo."
+    },
+    {
+        "text": "Una banda sinfónica escolar ofreció un concierto gratuito.",
+        "summary": "Banda sinfónica escolar da concierto gratuito."
+    },
+    {
+        "text": "El acuario local abrió un sector dedicado a especies nativas.",
+        "summary": "Acuario abre espacio de especies nativas."
+    },
+    {
+        "text": "Una investigación analizó el impacto del teletrabajo en la vida familiar.",
+        "summary": "Estudio evalúa efectos del teletrabajo en familias."
+    },
+    {
+        "text": "Un taller de cerámica reunió a participantes de todas las edades.",
+        "summary": "Taller de cerámica convoca a todas las edades."
+    },
+    {
+        "text": "Una fábrica recicló más de mil kilos de cartón en un mes.",
+        "summary": "Fábrica recicla mil kilos de cartón."
+    },
+    {
+        "text": "El centro cultural exhibió esculturas hechas con materiales reutilizados.",
+        "summary": "Exponen esculturas hechas con materiales reciclados."
+    },
+    {
+        "text": "Una patrulla rural recuperó ganado robado en un campo cercano.",
+        "summary": "Patrulla rural recupera ganado robado."
+    },
+    {
+        "text": "Una obra de ampliación sumará aulas nuevas a una escuela primaria.",
+        "summary": "Ampliación agregará aulas a escuela primaria."
+    },
+    {
+        "text": "Un colectivo artístico presentó una muestra sobre identidad local.",
+        "summary": "Colectivo artístico muestra obras sobre identidad."
+    },
+    {
+        "text": "Un centro deportivo instaló cintas y bicicletas nuevas en su gimnasio.",
+        "summary": "Centro deportivo renueva su gimnasio."
+    },
+    {
+        "text": "Un operativo conjunto retiró autos estacionados sobre veredas.",
+        "summary": "Operativo remueve autos estacionados en veredas."
+    },
+    {
+        "text": "La ciudad recibió la visita de escritores para un ciclo de charlas literarias.",
+        "summary": "Escritores participan de ciclo literario en la ciudad."
+    },
+    {
+        "text": "Una cooperativa textil lanzó prendas hechas con fibras recicladas.",
+        "summary": "Cooperativa textil fabrica ropa con materiales reciclados."
+    },
+    {
+        "text": "El centro comercial abrió nuevos locales en su ala renovada.",
+        "summary": "Centro comercial suma locales renovados."
+    },
+    {
+        "text": "Un grupo de bomberos voluntarios entrenó para rescates en altura.",
+        "summary": "Bomberos voluntarios se entrenan para rescates en altura."
+    },
+    {
+        "text": "Una empresa donó computadoras para un centro comunitario.",
+        "summary": "Empresa dona computadoras a centro comunitario."
+    },
+    {
+        "text": "Una exposición de autos antiguos atrajo a coleccionistas de la región.",
+        "summary": "Exposición de autos antiguos convoca coleccionistas."
+    },
+    {
+        "text": "Se dictó un taller para aprender a compostar residuos orgánicos.",
+        "summary": "Dan taller de compostaje."
+    },
+    {
+        "text": "Una radio escolar transmitió un programa especial por su aniversario.",
+        "summary": "Radio escolar celebra aniversario con programa especial."
+    },
+    {
+        "text": "Un acuerdo permitirá renovar la flota de patrulleros en la provincia.",
+        "summary": "Renovarán flota de patrulleros."
+    },
+    {
+        "text": "Una feria de emprendedores ofreció productos artesanales durante tres días.",
+        "summary": "Feria de emprendedores ofrece productos artesanales."
+    },
+    {
+        "text": "Un grupo de biólogos restauró un humedal afectado por la sequía.",
+        "summary": "Biólogos restauran humedal dañado por sequía."
+    },
+    {
+        "text": "Una escuela abrió un taller de ajedrez para niños y adolescentes.",
+        "summary": "Escuela abre taller de ajedrez."
+    },
+    {
+        "text": "La biblioteca del barrio ampliará su horario debido a la alta demanda de estudiantes.",
+        "summary": "La biblioteca extenderá su horario por mayor demanda."
+    },
+    {
+        "text": "Un vendedor ambulante encontró una billetera y la devolvió completa a su dueño.",
+        "summary": "Vendedor devuelve billetera perdida."
+    },
+    {
+        "text": "El aeropuerto registró demoras por una falla temporal en el sistema de equipaje.",
+        "summary": "Demoras en el aeropuerto por falla en sistema de equipaje."
+    },
+    {
+        "text": "La municipalidad anunció un plan de reciclaje piloto en tres escuelas primarias.",
+        "summary": "Lanzan plan de reciclaje en escuelas."
+    },
+    {
+        "text": "Un vecino rescató a un gato atrapado en una canaleta tras una tormenta.",
+        "summary": "Rescatan a un gato atrapado tras la tormenta."
+    },
+    {
+        "text": "Un curso de fotografía gratuito abrió inscripciones para jóvenes de la ciudad.",
+        "summary": "Abren inscripciones para curso de fotografía gratis."
+    },
+    {
+        "text": "El tránsito se vio afectado por un camión descompuesto en la avenida principal.",
+        "summary": "Camión descompuesto causa demoras en avenida."
+    },
+    {
+        "text": "La orquesta juvenil local realizará un concierto al aire libre este fin de semana.",
+        "summary": "La orquesta juvenil dará un concierto al aire libre."
+    },
+    {
+        "text": "Una nueva aplicación permitirá a los vecinos reportar baches y problemas viales.",
+        "summary": "Lanzan app para reportar baches."
+    },
+    {
+        "text": "El precio del pan podría aumentar debido a la suba del costo de la harina.",
+        "summary": "El pan podría subir por aumento de la harina."
+    },
+    {
+        "text": "La escuela técnica inauguró un laboratorio de robótica con impresoras 3D.",
+        "summary": "Inauguran laboratorio de robótica en escuela técnica."
+    },
+    {
+        "text": "Una pareja adoptó a dos hermanos que llevaban meses esperando en un hogar.",
+        "summary": "Pareja adopta a dos hermanos del hogar."
+    },
+    {
+        "text": "Los bomberos sofocaron un incendio menor en una casa del centro sin heridos.",
+        "summary": "Bomberos apagan incendio leve en el centro."
+    },
+    {
+        "text": "Un temporal provocó caída de árboles y cortes de energía en varios barrios.",
+        "summary": "Temporal causa caídas de árboles y cortes de luz."
+    },
+    {
+        "text": "La feria del libro local contará con escritores invitados de todo el país.",
+        "summary": "La feria del libro tendrá autores invitados."
+    },
+    {
+        "text": "Una fábrica textil anunció nuevas vacantes para operarios y supervisores.",
+        "summary": "Fábrica textil ofrece nuevas vacantes."
+    },
+    {
+        "text": "Un grupo de ciclistas inició una campaña para promover el uso del casco.",
+        "summary": "Ciclistas impulsan campaña por uso del casco."
+    },
+    {
+        "text": "La empresa de colectivos sumará cinco unidades para mejorar la frecuencia.",
+        "summary": "Agregan colectivos para mejorar la frecuencia."
+    },
+    {
+        "text": "El club de barrio organizará una colecta de útiles para el inicio de clases.",
+        "summary": "Organizan colecta de útiles escolares."
+    },
+    {
+        "text": "Un científico local fue premiado por su investigación sobre energías renovables.",
+        "summary": "Premian a científico local por estudio sobre energías renovables."
+    },
+    {
+        "text": "La policía recuperó una moto robada tras un operativo en la zona sur.",
+        "summary": "Recuperan moto robada en operativo policial."
+    },
+    {
+        "text": "El hospital registró un aumento de consultas por cuadros respiratorios leves.",
+        "summary": "Crece la atención por síntomas respiratorios leves."
+    },
+    {
+        "text": "Un artista callejero pintó un mural en homenaje a los trabajadores esenciales.",
+        "summary": "Crean mural en homenaje a trabajadores esenciales."
+    },
+    {
+        "text": "Una panadería local comenzó a producir pan sin gluten para celíacos.",
+        "summary": "Panadería lanza pan sin gluten."
+    },
+    {
+        "text": "Un fallo judicial ordenó reparar un parque que llevaba años en mal estado.",
+        "summary": "Ordenan reparar parque deteriorado."
+    },
+    {
+        "text": "El cine del centro estrenará una muestra de cine clásico restaurado.",
+        "summary": "Estrenan muestra de cine clásico restaurado."
+    },
+    {
+        "text": "Una startup presentó un dispositivo para monitorear la calidad del aire en hogares.",
+        "summary": "Startup lanza monitor de calidad del aire."
+    },
+    {
+        "text": "El río alcanzó su nivel más bajo en diez años por la falta de lluvias.",
+        "summary": "El río registra su nivel más bajo en una década."
+    },
+    {
+        "text": "Una maratón solidaria recaudó fondos para hospitales pediátricos.",
+        "summary": "Maratón solidaria recauda fondos para hospitales pediátricos."
+    },
+    {
+        "text": "Los taxis aumentarán su tarifa nocturna a partir del próximo mes.",
+        "summary": "Aumenta la tarifa nocturna de taxis."
+    },
+    {
+        "text": "Un taller mecánico ofreció revisiones gratuitas de bicicletas por una semana.",
+        "summary": "Mecánicos realizan revisiones de bicicletas gratis."
+    },
+    {
+        "text": "El museo local exhibirá piezas arqueológicas nunca antes mostradas.",
+        "summary": "El museo presenta nuevas piezas arqueológicas."
+    },
+    {
+        "text": "Una escuela rural recibió donaciones de computadoras y libros.",
+        "summary": "Donan computadoras y libros a escuela rural."
+    },
+    {
+        "text": "La ciudad registró récord de visitas turísticas durante el fin de semana largo.",
+        "summary": "Récord de turismo en el fin de semana largo."
+    },
+    {
+        "text": "Una campaña veterinaria aplicará vacunas gratuitas para mascotas en plazas.",
+        "summary": "Ofrecen vacunación gratuita para mascotas."
+    },
+    {
+        "text": "Los precios de las verduras bajaron tras un aumento en la producción local.",
+        "summary": "Bajan verduras por mayor producción local."
+    },
+    {
+        "text": "El municipio instaló nuevas luminarias LED en varias calles del centro.",
+        "summary": "Instalan nuevas luces LED en el centro."
+    },
+    {
+        "text": "Un estudio mostró que los jóvenes leen cada vez más libros digitales.",
+        "summary": "Crece el consumo de libros digitales entre jóvenes."
+    },
+    {
+        "text": "Un incendio forestal fue controlado tras ocho horas de trabajo.",
+        "summary": "Controlan incendio forestal tras largas tareas."
+    },
+    {
+        "text": "La universidad abrió un programa de becas para carreras tecnológicas.",
+        "summary": "Universidad lanza becas para carreras tecnológicas."
+    },
+    {
+        "text": "Los vecinos reclaman mejoras en el transporte nocturno de la zona oeste.",
+        "summary": "Reclaman mejoras en el transporte nocturno."
+    },
+    {
+        "text": "El banco central anunció medidas para estabilizar la moneda.",
+        "summary": "El banco central toma medidas para estabilizar la moneda."
+    },
+    {
+        "text": "Un festival gastronómico reunió a chefs de diferentes regiones.",
+        "summary": "Festival gastronómico convoca a chefs regionales."
+    },
+    {
+        "text": "El zoológico sumó dos nuevas especies de aves provenientes de rescates.",
+        "summary": "El zoológico incorpora aves rescatadas."
+    },
+    {
+        "text": "Una nueva ley promoverá el uso de bicicletas eléctricas en la ciudad.",
+        "summary": "Promueven uso de bicicletas eléctricas con nueva ley."
+    },
+    {
+        "text": "El centro cultural ofrecerá talleres gratuitos de escritura creativa.",
+        "summary": "Habrá talleres gratuitos de escritura creativa."
+    },
+    {
+        "text": "Una empresa local comenzó a exportar software a otros países.",
+        "summary": "Empresa local inicia exportación de software."
+    },
+    {
+        "text": "La feria de artesanos incorporó stands de cerámica y tejido.",
+        "summary": "La feria suma nuevos stands de cerámica y tejido."
+    },
+    {
+        "text": "Una campaña busca concientizar sobre el abandono animal.",
+        "summary": "Lanzan campaña contra el abandono animal."
+    },
+    {
+        "text": "El estadio será remodelado para cumplir normas internacionales.",
+        "summary": "Remodelarán el estadio por normas internacionales."
+    },
+    {
+        "text": "Una heladería presentó sabores inspirados en frutas autóctonas.",
+        "summary": "Heladería lanza sabores con frutas locales."
+    },
+    {
+        "text": "La policía investiga un robo ocurrido en un local del centro.",
+        "summary": "Investigan robo en un comercio del centro."
+    },
+    {
+        "text": "Un grupo de voluntarios limpió la costa tras una jornada de contaminación.",
+        "summary": "Voluntarios limpian la costa tras contaminación."
+    },
+    {
+        "text": "La empresa eléctrica realizará cortes programados para mantenimiento.",
+        "summary": "Habrá cortes programados por mantenimiento eléctrico."
+    },
+    {
+        "text": "El teatro municipal abrirá una temporada dedicada a obras independientes.",
+        "summary": "El teatro tendrá temporada de obras independientes."
+    },
+    {
+        "text": "Una cadena de supermercados bajará precios en productos esenciales.",
+        "summary": "Supermercados reducen precios esenciales."
+    },
+    {
+        "text": "Los guardavidas iniciaron cursos gratuitos de primeros auxilios.",
+        "summary": "Guardavidas dictan cursos de primeros auxilios."
+    },
+    {
+        "text": "Un programa municipal ofrece talleres de empleo para jóvenes.",
+        "summary": "Ofrecen talleres de empleo para jóvenes."
+    },
+    {
+        "text": "La producción de miel aumentó debido a mejores condiciones climáticas.",
+        "summary": "Aumenta la producción de miel por buen clima."
+    },
+    {
+        "text": "Un nuevo puente peatonal conectará dos barrios antes incomunicados.",
+        "summary": "Construyen puente peatonal que une dos barrios."
+    },
+    {
+        "text": "La policía decomisó mercadería ilegal tras un operativo nocturno.",
+        "summary": "Decomisan mercadería ilegal en operativo nocturno."
+    },
+    {
+        "text": "El hospital sumó dos ambulancias equipadas para emergencias.",
+        "summary": "El hospital incorpora nuevas ambulancias."
+    },
+    {
+        "text": "Una marca local presentó ropa hecha con materiales reciclados.",
+        "summary": "Lanzan ropa fabricada con materiales reciclados."
+    },
+    {
+        "text": "El parque industrial abrirá un área destinada a startups tecnológicas.",
+        "summary": "Crean área para startups en el parque industrial."
+    },
+    {
+        "text": "Un hombre encontró un fósil mientras caminaba por el campo.",
+        "summary": "Hallan fósil de manera accidental en el campo."
+    },
+    {
+        "text": "La ciudad instalará más estaciones de carga para autos eléctricos.",
+        "summary": "Instalarán más cargadores para autos eléctricos."
+    },
+    {
+        "text": "La biblioteca lanzó un concurso de cuentos breves para jóvenes.",
+        "summary": "Lanzan concurso de cuentos breves."
+    },
+    {
+        "text": "Una tormenta dejó calles anegadas y complicaciones en el tránsito.",
+        "summary": "Tormenta causa calles anegadas y caos vial."
+    },
+    {
+        "text": "Un curso de carpintería gratuito abrió cupos para mayores de 18 años.",
+        "summary": "Abren cupos para curso de carpintería gratis."
+    },
+    {
+        "text": "Los trabajadores portuarios acordaron levantar el paro tras una reunión.",
+        "summary": "Portuarios levantan el paro tras acuerdo."
+    },
+    {
+        "text": "Una exposición fotográfica mostrará imágenes históricas de la ciudad.",
+        "summary": "Exponen fotos históricas de la ciudad."
+    },
+    {
+        "text": "El precio del transporte público podría subir en las próximas semanas.",
+        "summary": "Prevén aumento del transporte público."
+    },
+    {
+        "text": "Una banda local lanzó su primer álbum en plataformas digitales.",
+        "summary": "Banda local estrena su primer álbum."
+    },
+    {
+        "text": "Los contagios de gripe aumentaron con la llegada del frío.",
+        "summary": "Suben los casos de gripe por el frío."
+    },
+    {
+        "text": "La empresa de agua anunció cortes por trabajos en la red.",
+        "summary": "Habrá cortes de agua por trabajos en red."
+    },
+    {
+        "text": "Un restaurante fue premiado por su innovación culinaria.",
+        "summary": "Premian a restaurante por innovación."
+    },
+    {
+        "text": "Los vecinos organizaron una campaña de donación de sangre.",
+        "summary": "Organizan campaña de donación de sangre."
+    },
+    {
+        "text": "El taller de danza abrió inscripciones para adultos principiantes.",
+        "summary": "Abren inscripciones para clases de danza."
+    },
+    {
+        "text": "Una compañía teatral independiente estrenará una obra experimental.",
+        "summary": "Compañía independiente estrena obra experimental."
+    },
+    {
+        "text": "El centro de salud amplió su horario de atención pediátrica.",
+        "summary": "Amplían horario pediátrico en centro de salud."
+    },
+    {
+        "text": "Una productora local filmará una serie ambientada en los años 80.",
+        "summary": "Filman serie ambientada en los años 80."
+    },
+    {
+        "text": "El precio del combustible volvió a subir tras ajustes internacionales.",
+        "summary": "Nuevo aumento en el precio del combustible."
+    },
+    {
+        "text": "Vecinos denunciaron ruidos molestos provenientes de una fábrica.",
+        "summary": "Denuncian ruidos molestos de fábrica."
+    },
+    {
+        "text": "La municipalidad reparará varios semáforos fuera de servicio.",
+        "summary": "Repararán semáforos que no funcionan."
+    },
+    {
+        "text": "Una campaña solidaria reunió ropa de abrigo para personas en situación de calle.",
+        "summary": "Juntan abrigo para personas sin hogar."
+    },
+    {
+        "text": "Un investigador local estudia el impacto del cambio climático en la región.",
+        "summary": "Analizan impacto del clima en la región."
+    },
+    {
+        "text": "El acuario sumó una nueva especie de peces tropicales.",
+        "summary": "El acuario incorpora peces tropicales."
+    },
+    {
+        "text": "Un apagón afectó a miles de usuarios durante más de una hora.",
+        "summary": "Apagón afecta a miles por más de una hora."
+    },
+    {
+        "text": "La ruta principal fue cortada por un choque múltiple sin heridos graves.",
+        "summary": "Corte en ruta por choque múltiple sin heridos graves."
+    },
+    {
+        "text": "Una feria vegana ofrecerá productos sin ingredientes de origen animal.",
+        "summary": "Realizarán feria vegana con productos sin origen animal."
+    },
+    {
+        "text": "El programa de salud escolar detectó problemas visuales en varios alumnos.",
+        "summary": "Detectan problemas visuales en alumnos."
+    },
+    {
+        "text": "Un atleta local ganó una competencia regional de maratón.",
+        "summary": "Atleta local gana maratón regional."
+    },
+    {
+        "text": "Una helada inesperada afectó cultivos en zonas rurales.",
+        "summary": "Helada afecta cultivos rurales."
+    },
+    {
+        "text": "La costanera tendrá un nuevo paseo peatonal con bancos y miradores.",
+        "summary": "Inaugurarán un nuevo paseo peatonal en la costanera."
+    },
+    {
+        "text": "Los pescadores protestaron por restricciones que afectan su actividad.",
+        "summary": "Pescadores protestan por nuevas restricciones."
+    },
+    {
+        "text": "Una empresa donó equipamiento deportivo a un club barrial.",
+        "summary": "Donan equipamiento deportivo a club barrial."
+    },
+    {
+        "text": "El planetario ofrecerá funciones especiales durante las vacaciones.",
+        "summary": "El planetario dará funciones especiales."
+    },
+    {
+        "text": "Un fallo judicial suspendió la construcción de un edificio cuestionado.",
+        "summary": "Frenan obra de edificio por orden judicial."
+    },
+    {
+        "text": "El servicio meteorológico emitió una alerta por vientos fuertes para la costa atlántica.",
+        "summary": "Alertan por vientos fuertes en la costa."
+    },
+    {
+        "text": "Una cafetería local lanzó una promoción especial por su aniversario número diez.",
+        "summary": "Cafetería celebra su aniversario con promociones."
+    },
+    {
+        "text": "Los trabajadores del correo anunciaron un paro de 24 horas por reclamos salariales.",
+        "summary": "Correo realizará paro de 24 horas por salarios."
+    },
+    {
+        "text": "Un grupo de vecinos plantó árboles en una plaza que había quedado deteriorada.",
+        "summary": "Vecinos plantan árboles para mejorar una plaza."
+    },
+    {
+        "text": "El intendente confirmó obras de pavimentación en tres barrios periféricos.",
+        "summary": "Anuncian pavimentación en barrios periféricos."
+    },
+    {
+        "text": "Una empresa local fabricará paneles solares para exportación.",
+        "summary": "Fabricarán paneles solares para exportación."
+    },
+    {
+        "text": "La universidad abrió un curso intensivo de programación para principiantes.",
+        "summary": "Universidad ofrece curso intensivo de programación."
+    },
+    {
+        "text": "Los bomberos rescataron a un perro caído en un pozo sin consecuencias.",
+        "summary": "Bomberos rescatan perro caído en un pozo."
+    },
+    {
+        "text": "Una muestra de arte exhibirá obras de jóvenes talentos locales.",
+        "summary": "Exponen obras de artistas jóvenes locales."
+    },
+    {
+        "text": "El transporte público funcionará con frecuencia reducida por feriado.",
+        "summary": "El transporte tendrá menos frecuencia por feriado."
+    },
+    {
+        "text": "Una tormenta eléctrica provocó interrupciones en el servicio de internet.",
+        "summary": "Tormenta afecta el servicio de internet."
+    },
+    {
+        "text": "El municipio inauguró un nuevo centro de atención para adultos mayores.",
+        "summary": "Abren centro de atención para adultos mayores."
+    },
+    {
+        "text": "Una cadena de farmacias ofrecerá descuentos en medicamentos esenciales.",
+        "summary": "Farmacias aplicarán descuentos en medicamentos esenciales."
+    },
+    {
+        "text": "Los vecinos denunciaron un basural clandestino en un predio abandonado.",
+        "summary": "Denuncian basural clandestino en predio abandonado."
+    },
+    {
+        "text": "La costa recibió miles de turistas durante el primer fin de semana de enero.",
+        "summary": "Turistas llenan la costa en el primer fin de semana de enero."
+    },
+    {
+        "text": "Un nuevo estudio revela un aumento en el uso de bicicletas en la ciudad.",
+        "summary": "Crece el uso de bicicletas en la ciudad."
+    },
+    {
+        "text": "Una persona donó libros para renovar la biblioteca de una escuela rural.",
+        "summary": "Donan libros a una escuela rural."
+    },
+    {
+        "text": "La compañía aérea reanudó vuelos que habían sido suspendidos por mantenimiento.",
+        "summary": "Reanudan vuelos tras mantenimiento."
+    },
+    {
+        "text": "El teatro presentará un ciclo dedicado a directores latinoamericanos.",
+        "summary": "El teatro presenta ciclo de cine latinoamericano."
+    },
+    {
+        "text": "Una fábrica incorporó máquinas nuevas para mejorar su producción.",
+        "summary": "Fábrica moderniza su línea de producción."
+    },
+    {
+        "text": "La ciudad organizará un festival de música electrónica al aire libre.",
+        "summary": "Habrá festival de música electrónica al aire libre."
+    },
+    {
+        "text": "Un curso de jardinería gratuito abrió vacantes para principiantes.",
+        "summary": "Abren cupos para curso gratuito de jardinería."
+    },
+    {
+        "text": "Vecinos reportaron la presencia de murciélagos en un edificio antiguo.",
+        "summary": "Detectan murciélagos en edificio antiguo."
+    },
+    {
+        "text": "La línea ferroviaria sumará más servicios nocturnos desde febrero.",
+        "summary": "Agregan servicios nocturnos en trenes desde febrero."
+    },
+    {
+        "text": "Un grupo de jóvenes ganó un concurso nacional de innovación tecnológica.",
+        "summary": "Jóvenes ganan concurso de innovación."
+    },
+    {
+        "text": "La municipalidad refaccionará el natatorio olímpico antes del invierno.",
+        "summary": "Refaccionarán el natatorio olímpico."
+    },
+    {
+        "text": "Un apagón afectó varias localidades durante la madrugada.",
+        "summary": "Apagón afecta varias localidades de madrugada."
+    },
+    {
+        "text": "Una banda sinfónica presentará un tributo a música de videojuegos.",
+        "summary": "Sinfónica dará tributo a música de videojuegos."
+    },
+    {
+        "text": "Los contagios de dengue aumentaron tras varios días de calor intenso.",
+        "summary": "Aumentan casos de dengue por el calor."
+    },
+    {
+        "text": "Una cadena de restaurantes abrió un local nuevo en el centro.",
+        "summary": "Nueva sucursal de restaurante abre en el centro."
+    },
+    {
+        "text": "El sindicato docente anunció una medida de fuerza para la próxima semana.",
+        "summary": "Docentes anuncian medida de fuerza."
+    },
+    {
+        "text": "La producción de cítricos será menor este año por la sequía.",
+        "summary": "La sequía reduce la producción de cítricos."
+    },
+    {
+        "text": "Una pareja celebró sus bodas de oro con una fiesta comunitaria.",
+        "summary": "Pareja celebra bodas de oro con fiesta."
+    },
+    {
+        "text": "Un reconocido chef ofrecerá una clase abierta en el mercado central.",
+        "summary": "Chef dará clase abierta en el mercado central."
+    },
+    {
+        "text": "Los usuarios reportaron fallas en el sistema de recarga del transporte.",
+        "summary": "Fallas en el sistema de recarga del transporte."
+    },
+    {
+        "text": "Una exposición itinerante mostrará fósiles de dinosaurios en escuelas.",
+        "summary": "Exhiben fósiles de dinosaurios en escuelas."
+    },
+    {
+        "text": "El centro comercial realizará descuentos durante todo el fin de semana.",
+        "summary": "Habrá descuentos en el centro comercial."
+    },
+    {
+        "text": "Investigadores descubrieron una nueva especie de planta en la región.",
+        "summary": "Descubren nueva especie de planta."
+    },
+    {
+        "text": "El hospital lanzó una campaña para donar médula ósea.",
+        "summary": "Lanzan campaña para donar médula ósea."
+    },
+    {
+        "text": "Una ONG abrió un refugio nocturno para personas sin hogar.",
+        "summary": "ONG abre refugio nocturno para personas sin hogar."
+    },
+    {
+        "text": "Un artista local pintará un mural en la entrada de la estación ferroviaria.",
+        "summary": "Artista pintará mural en la estación."
+    },
+    {
+        "text": "La cooperativa de agricultores anunció una feria especial de productos regionales.",
+        "summary": "Habrá feria especial de productos regionales."
+    },
+    {
+        "text": "El parque zoológico realizará visitas guiadas nocturnas por vacaciones.",
+        "summary": "El zoológico ofrecerá visitas nocturnas."
+    },
+    {
+        "text": "Una startup lanzó una herramienta para aprender idiomas con IA.",
+        "summary": "Startup lanza app de idiomas con IA."
+    },
+    {
+        "text": "El acuario sumó un nuevo tanque dedicado a especies del Atlántico Sur.",
+        "summary": "El acuario estrena tanque del Atlántico Sur."
+    },
+    {
+        "text": "Una tormenta causó cortes de árboles y daños menores en vehículos.",
+        "summary": "Tormenta provoca caída de árboles y daños menores."
+    },
+    {
+        "text": "Un grupo de vecinos restauró bancos y juegos de una plaza deteriorada.",
+        "summary": "Vecinos restauran juegos y bancos de una plaza."
+    },
+    {
+        "text": "Los pescadores levantaron el paro tras un acuerdo con autoridades.",
+        "summary": "Pescadores levantan paro por acuerdo."
+    },
+    {
+        "text": "La feria de ciencias escolar exhibirá proyectos de más de 200 alumnos.",
+        "summary": "La feria de ciencias mostrará 200 proyectos escolares."
+    },
+    {
+        "text": "Una nueva línea de colectivos conectará barrios antes aislados.",
+        "summary": "Nueva línea de colectivos une barrios aislados."
+    },
+    {
+        "text": "Un informe advierte sobre el aumento del consumo de agua en verano.",
+        "summary": "Alertan por aumento en consumo de agua."
+    },
+    {
+        "text": "La ciudad modernizó su sistema de contenedores de basura.",
+        "summary": "Modernizan contenedores de basura."
+    },
+    {
+        "text": "Un incendio en una fábrica fue controlado sin víctimas.",
+        "summary": "Controlan incendio en fábrica sin heridos."
+    },
+    {
+        "text": "Una radio local cumplió 50 años y organizó un festival con músicos regionales.",
+        "summary": "Radio local celebra 50 años con festival."
+    },
+    {
+        "text": "La ruta costera tendrá arreglos durante tres semanas.",
+        "summary": "Repararán la ruta costera por tres semanas."
+    },
+    {
+        "text": "Una veterinaria móvil recorrerá barrios para castrar mascotas gratis.",
+        "summary": "Habrá castraciones gratuitas con veterinaria móvil."
+    },
+    {
+        "text": "La biblioteca ampliará su colección con donaciones de particulares.",
+        "summary": "Biblioteca suma libros donados por vecinos."
+    },
+    {
+        "text": "El club de atletismo organizará carreras infantiles en vacaciones.",
+        "summary": "Organizan carreras infantiles en vacaciones."
+    },
+    {
+        "text": "Una app permitirá trazar rutas seguras para ciclistas.",
+        "summary": "Lanzan app para rutas seguras en bicicleta."
+    },
+    {
+        "text": "El municipio inició obras de desagüe para evitar inundaciones.",
+        "summary": "Comienzan obras de desagüe contra inundaciones."
+    },
+    {
+        "text": "Una familia encontró a su gato perdido después de dos semanas.",
+        "summary": "Familia recupera gato perdido tras dos semanas."
+    },
+    {
+        "text": "Una empresa creará empleo con la apertura de un nuevo centro logístico.",
+        "summary": "Nueva planta logística generará empleo."
+    },
+    {
+        "text": "El centro cultural abrirá talleres de teatro para adolescentes.",
+        "summary": "Ofrecen talleres de teatro para adolescentes."
+    },
+    {
+        "text": "Un apagón parcial complicó el tránsito en el microcentro.",
+        "summary": "Apagón parcial afecta el tránsito en el microcentro."
+    },
+    {
+        "text": "La ciudad recibirá fondos para renovar espacios públicos.",
+        "summary": "Fondos nacionales permitirán renovar plazas públicas."
+    },
+    {
+        "text": "El observatorio anunció noches de telescopio para todo público.",
+        "summary": "El observatorio ofrecerá noches de telescopio."
+    },
+    {
+        "text": "Una banda juvenil ganó un concurso regional de música.",
+        "summary": "Banda juvenil gana concurso regional."
+    },
+    {
+        "text": "Un incendio en pastizales fue controlado antes de alcanzar viviendas.",
+        "summary": "Controlan incendio de pastizales sin afectar viviendas."
+    },
+    {
+        "text": "Las ventas de bicicletas crecieron durante el último año.",
+        "summary": "Aumentan las ventas de bicicletas."
+    },
+    {
+        "text": "Un proyecto propone ampliar las ciclovías del centro.",
+        "summary": "Proponen ampliar ciclovías en el centro."
+    },
+    {
+        "text": "La empresa de telecomunicaciones mejorará su red en varios barrios.",
+        "summary": "Mejorarán la red de telecomunicaciones en barrios."
+    },
+    {
+        "text": "Una feria medieval ofrecerá espectáculos y productos artesanales.",
+        "summary": "Habrá feria medieval con espectáculos y artesanías."
+    },
+    {
+        "text": "El aeropuerto sumó máquinas automáticas para agilizar el check-in.",
+        "summary": "El aeropuerto incorpora máquinas de check-in."
+    },
+    {
+        "text": "Un grupo ambientalista limpió un humedal afectado por residuos.",
+        "summary": "Ambientalistas limpian humedal contaminado."
+    },
+    {
+        "text": "La producción de vino aumentó gracias a una buena cosecha.",
+        "summary": "Sube la producción de vino por buena cosecha."
+    },
+    {
+        "text": "Una pareja encontró un documento histórico en una obra en remodelación.",
+        "summary": "Hallan documento histórico en obra."
+    },
+    {
+        "text": "El zoológico ofrecerá charlas sobre conservación animal.",
+        "summary": "Habrá charlas de conservación en el zoológico."
+    },
+    {
+        "text": "La ciudad instalará cámaras de seguridad en zonas comerciales.",
+        "summary": "Instalarán cámaras en zonas comerciales."
+    },
+    {
+        "text": "Un atleta rompió el récord nacional en salto en largo.",
+        "summary": "Atleta bate el récord nacional en salto."
+    },
+    {
+        "text": "El museo abrirá una muestra sobre culturas originarias.",
+        "summary": "El museo presentará muestra de culturas originarias."
+    },
+    {
+        "text": "Un restaurante dará clases gratuitas de cocina saludable.",
+        "summary": "Restaurante ofrecerá clases de cocina saludable."
+    },
+    {
+        "text": "Un incendio en un depósito generó una columna de humo visible desde varios barrios.",
+        "summary": "Incendio en depósito genera gran columna de humo."
+    },
+    {
+        "text": "La ciudad realizará obras para mejorar el drenaje pluvial.",
+        "summary": "Inician obras para mejorar el drenaje pluvial."
+    },
+    {
+        "text": "Vecinos organizaron una colecta de alimentos para comedores locales.",
+        "summary": "Hacen colecta de alimentos para comedores."
+    },
+    {
+        "text": "Una startup creó un sistema para monitorear huertas urbanas.",
+        "summary": "Startup lanza sistema para monitoreo de huertas."
+    },
+    {
+        "text": "El gobierno local impulsará la cultura emprendedora con talleres gratuitos.",
+        "summary": "Impulsan emprendimientos con talleres gratuitos."
+    },
+    {
+        "text": "La municipalidad instalará bebederos públicos en plazas concurridas.",
+        "summary": "Instalarán bebederos públicos en plazas."
+    },
+    {
+        "text": "Una obra teatral infantil recorrerá escuelas durante el semestre.",
+        "summary": "Obra infantil visitará escuelas este semestre."
+    },
+    {
+        "text": "Un proyecto propone sumar más árboles nativos en parques.",
+        "summary": "Proponen sumar árboles nativos en parques."
+    },
+    {
+        "text": "Un grupo de estudiantes de Mendoza creó una app para detectar plagas en huertas familiares.",
+        "summary": "Estudiantes mendocinos desarrollaron una app contra plagas."
+    },
+    {
+        "text": "La municipalidad anunció nuevas luminarias LED en varios barrios para mejorar la seguridad nocturna.",
+        "summary": "Instalan luminarias LED para reforzar la seguridad."
+    },
+    {
+        "text": "El cantante lanzó su nuevo álbum en plataformas digitales y alcanzó miles de reproducciones en horas.",
+        "summary": "Nuevo álbum del cantante rompe récords iniciales."
+    },
+    {
+        "text": "Una familia de Córdoba encontró en su patio restos fósiles que podrían pertenecer a un gliptodonte.",
+        "summary": "Hallan posibles restos de gliptodonte en Córdoba."
+    },
+    {
+        "text": "El gobierno presentó un plan para fomentar el uso de bicicletas en zonas urbanas.",
+        "summary": "Anuncian plan para impulsar el uso de bicicletas."
+    },
+    {
+        "text": "El Banco Central actualizó los límites de extracción diaria en cajeros automáticos.",
+        "summary": "Aumentan los límites de extracción en cajeros."
+    },
+    {
+        "text": "Arqueólogos descubrieron una vasija de más de mil años de antigüedad en el norte del país.",
+        "summary": "Descubren vasija milenaria en el norte."
+    },
+    {
+        "text": "Tras un incendio forestal, voluntarios plantaron cientos de árboles para restaurar el área afectada.",
+        "summary": "Voluntarios reforestan zona dañada por un incendio."
+    },
+    {
+        "text": "Una cadena de supermercados implementó cajas rápidas sin personal en varias sucursales.",
+        "summary": "Supermercados incorporan cajas automáticas."
+    },
+    {
+        "text": "Investigadores desarrollaron un test rápido para detectar intoxicación por metales pesados.",
+        "summary": "Crean test rápido para identificar metales pesados."
+    },
+    {
+        "text": "Una ONG donó computadoras reacondicionadas a una escuela rural de San Luis.",
+        "summary": "Escuela rural recibe computadoras donadas."
+    },
+    {
+        "text": "Se registró una inusual aurora austral visible desde la Patagonia argentina.",
+        "summary": "Aurora austral sorprende en la Patagonia."
+    },
+    {
+        "text": "Una tormenta eléctrica dejó sin energía a varios barrios durante la madrugada.",
+        "summary": "Tormenta causa cortes de luz nocturnos."
+    },
+    {
+        "text": "El hospital público incorporó un nuevo tomógrafo de alta precisión.",
+        "summary": "Hospital suma tomógrafo avanzado."
+    },
+    {
+        "text": "Una start-up argentina fue seleccionada para un programa internacional de innovación.",
+        "summary": "Start-up argentina entra en programa global."
+    },
+    {
+        "text": "Vecinos organizaron una feria solidaria para recaudar fondos para un merendero.",
+        "summary": "Feria solidaria reúne fondos para merendero."
+    },
+    {
+        "text": "El aeropuerto local reabrió tras completar obras de reparación en la pista principal.",
+        "summary": "Reabre aeropuerto tras reparaciones."
+    },
+    {
+        "text": "Un investigador argentino fue premiado por su trabajo en energías renovables.",
+        "summary": "Científico argentino recibe premio por energías renovables."
+    },
+    {
+        "text": "Las lluvias intensas provocaron el desborde de un arroyo y el cierre de varias calles.",
+        "summary": "Lluvias fuertes causan desbordes y cortes."
+    },
+    {
+        "text": "Una panadería local lanzó una línea de productos sin gluten.",
+        "summary": "Panadería ofrece productos sin gluten."
+    },
+    {
+        "text": "La biblioteca del barrio sumó un sector infantil con nuevos libros ilustrados.",
+        "summary": "Biblioteca agrega área infantil renovada."
+    },
+    {
+        "text": "Productores vitivinícolas anticipan una cosecha prometedora gracias al clima favorable.",
+        "summary": "Prevén cosecha de vino favorable."
+    },
+    {
+        "text": "Un hombre reconstruyó su casa con materiales reciclados tras un temporal.",
+        "summary": "Vecino reconstruye su casa con materiales reciclados."
+    },
+    {
+        "text": "El club local inauguró una cancha de césped sintético para actividades juveniles.",
+        "summary": "Club presenta cancha sintética para jóvenes."
+    },
+    {
+        "text": "Una aplicación argentina permite reportar baches y problemas de infraestructura urbana.",
+        "summary": "Nueva app para denunciar fallas urbanas."
+    },
+    {
+        "text": "Investigadores confirmaron la presencia de una especie de ave considerada extinta en la región.",
+        "summary": "Redescubren ave antes considerada extinta."
+    },
+    {
+        "text": "El precio del transporte urbano aumentará a partir del próximo mes.",
+        "summary": "Aumenta el precio del transporte urbano."
+    },
+    {
+        "text": "Un chofer de colectivo devolvió una mochila con documentos y dinero a su dueño.",
+        "summary": "Chofer devuelve mochila perdida."
+    },
+    {
+        "text": "El centro cultural ofrecerá talleres gratuitos durante todo el verano.",
+        "summary": "Habrá talleres gratuitos de verano en el centro cultural."
+    },
+    {
+        "text": "Una tormenta de granizo dañó varias hectáreas de cultivo en Santa Fe.",
+        "summary": "Granizo afecta cultivos en Santa Fe."
+    },
+    {
+        "text": "Una pareja restauró un almacén histórico y lo abrió como café literario.",
+        "summary": "Reabren almacén histórico como café literario."
+    },
+    {
+        "text": "La policía decomisó mercadería ilegal en un operativo nocturno.",
+        "summary": "Decomisan mercadería ilegal en operativo."
+    },
+    {
+        "text": "Una carrera solidaria reunió a más de mil participantes en apoyo a un hospital.",
+        "summary": "Mil personas corren en evento solidario."
+    },
+    {
+        "text": "Se detectaron niveles elevados de contaminación en un río cercano a la ciudad.",
+        "summary": "Alertan por contaminación elevada en un río."
+    },
+    {
+        "text": "Una familia adoptó a un perro encontrado herido en la ruta.",
+        "summary": "Familia adopta perro rescatado."
+    },
+    {
+        "text": "Estudiantes de ingeniería fabricaron una prótesis impresa en 3D para un niño.",
+        "summary": "Crean prótesis 3D para un niño."
+    },
+    {
+        "text": "Una falla en un transformador dejó sin energía a un colegio durante toda la mañana.",
+        "summary": "Falla eléctrica deja sin luz a un colegio."
+    },
+    {
+        "text": "El museo abrió una muestra dedicada a artistas locales emergentes.",
+        "summary": "Museo inaugura muestra de artistas emergentes."
+    },
+    {
+        "text": "Un concurso de fotografía recibió más de tres mil obras de todo el país.",
+        "summary": "Concurso fotográfico reúne miles de obras."
+    },
+    {
+        "text": "Un grupo de vecinos limpió la costa del río y retiró más de 200 kilos de basura.",
+        "summary": "Vecinos limpian la costa del río."
+    },
+    {
+        "text": "La ciudad será sede de un festival internacional de teatro independiente.",
+        "summary": "Ciudad albergará festival de teatro."
+    },
+    {
+        "text": "Un joven marplatense ganó un torneo nacional de ajedrez.",
+        "summary": "Joven de Mar del Plata gana torneo de ajedrez."
+    },
+    {
+        "text": "El servicio meteorológico anticipa una ola de calor para la próxima semana.",
+        "summary": "Pronostican ola de calor."
+    },
+    {
+        "text": "Una heladería local lanzó sabores especiales por su aniversario.",
+        "summary": "Heladería presenta sabores por aniversario."
+    },
+    {
+        "text": "Un incendio en un depósito obligó a evacuar dos manzanas cercanas.",
+        "summary": "Incendio en depósito genera evacuaciones."
+    },
+    {
+        "text": "Una colecta solidaria reunió útiles escolares para más de 300 chicos.",
+        "summary": "Colecta dona útiles a cientos de niños."
+    },
+    {
+        "text": "El club náutico incorporó nuevas embarcaciones para su escuela de vela.",
+        "summary": "Club náutico suma embarcaciones nuevas."
+    },
+    {
+        "text": "Detectaron un aumento en casos de gripe en la región debido a bajas temperaturas.",
+        "summary": "Suben los casos de gripe por el frío."
+    },
+    {
+        "text": "Un equipo local clasificó a un torneo internacional de robótica.",
+        "summary": "Equipo clasifica a competencia internacional de robótica."
+    },
+    {
+        "text": "La ciudad instaló estaciones de carga para bicicletas eléctricas.",
+        "summary": "Implementan cargadores para bicicletas eléctricas."
+    },
+    {
+        "text": "Reabrió una librería histórica que había cerrado durante la pandemia.",
+        "summary": "Reabre librería histórica tras la pandemia."
+    },
+    {
+        "text": "Investigadores crearon un plástico biodegradable a partir de cáscaras de frutas.",
+        "summary": "Desarrollan plástico biodegradable con cáscaras."
+    },
+    {
+        "text": "Los bomberos rescataron a un gato atrapado en el techo de una casa.",
+        "summary": "Bomberos salvan un gato atrapado."
+    },
+    {
+        "text": "El tren regional ampliará su frecuencia debido a la alta demanda.",
+        "summary": "Aumentan la frecuencia del tren regional."
+    },
+    {
+        "text": "Un proyecto escolar convirtió botellas de plástico en ladrillos ecológicos.",
+        "summary": "Estudiantes fabrican ladrillos ecológicos."
+    },
+    {
+        "text": "La feria de economía circular atrajo miles de visitantes el fin de semana.",
+        "summary": "Masiva asistencia a feria de economía circular."
+    },
+    {
+        "text": "Un científico argentino participará en una misión internacional a la Antártida.",
+        "summary": "Científico argentino irá a misión antártica."
+    },
+    {
+        "text": "El municipio comenzó la restauración de un puente histórico.",
+        "summary": "Inician restauración de puente histórico."
+    },
+    {
+        "text": "La policía detuvo a dos personas por robo de bicicletas en el centro.",
+        "summary": "Detienen a sospechosos de robo de bicicletas."
+    },
+    {
+        "text": "Un grupo de jóvenes organiza talleres gratuitos de reparación de computadoras.",
+        "summary": "Jóvenes dictan talleres de reparación gratis."
+    },
+    {
+        "text": "El aeropuerto sumó nuevos scanners de seguridad más rápidos.",
+        "summary": "Aeropuerto suma scanners más eficientes."
+    },
+    {
+        "text": "Una panadería ganó un premio internacional por su pan de masa madre.",
+        "summary": "Panadería recibe premio por su pan artesanal."
+    },
+    {
+        "text": "La ciudad habilitó un corredor gastronómico en una calle peatonal.",
+        "summary": "Abren corredor gastronómico peatonal."
+    },
+    {
+        "text": "Una fundación entregó becas a estudiantes destacados de bajos recursos.",
+        "summary": "Fundación otorga becas a estudiantes."
+    },
+    {
+        "text": "El servicio de transporte escolar renovó parte de su flota.",
+        "summary": "Renuevan vehículos del transporte escolar."
+    },
+    {
+        "text": "Una tormenta causó la caída de más de veinte árboles en distintos barrios.",
+        "summary": "Tormenta derriba decenas de árboles."
+    },
+    {
+        "text": "Un profesor jubilado publicó un libro sobre la historia del ferrocarril local.",
+        "summary": "Publican libro sobre la historia ferroviaria."
+    },
+    {
+        "text": "Una familia rescató a un ternero atrapado en un canal de riego.",
+        "summary": "Familia rescata ternero caído en canal."
+    },
+    {
+        "text": "El hospital inauguró un área de emergencias pediátricas remodelada.",
+        "summary": "Reabren emergencias pediátricas renovadas."
+    },
+    {
+        "text": "Un paseo costero recibió nuevas barandas y señalización para ciclistas.",
+        "summary": "Mejoran infraestructura del paseo costero."
+    },
+    {
+        "text": "Un apagón afectó varias provincias durante una hora.",
+        "summary": "Apagón deja sin energía a varias provincias."
+    },
+    {
+        "text": "Una feria de emprendedores reunió a artesanos y productores locales.",
+        "summary": "Feria de emprendedores convoca a productores."
+    },
+    {
+        "text": "Detectaron un leve aumento en la actividad sísmica de la región.",
+        "summary": "Registran incremento en actividad sísmica."
+    },
+    {
+        "text": "Un hombre encontró una billetera con dinero y la entregó a la policía.",
+        "summary": "Hombre devuelve billetera perdida."
+    },
+    {
+        "text": "Una empresa tecnológica abrió un centro de investigación en Buenos Aires.",
+        "summary": "Empresa tech inaugura centro de investigación."
+    },
+    {
+        "text": "Estudiantes organizaron un festival de ciencia para mostrar proyectos escolares.",
+        "summary": "Festival escolar exhibe proyectos científicos."
+    },
+    {
+        "text": "El zoológico liberó a un águila rehabilitada tras meses de cuidados.",
+        "summary": "Liberan un águila tras rehabilitación."
+    },
+    {
+        "text": "La costa recibió una importante cantidad de residuos arrastrados por la marea.",
+        "summary": "La marea deja basura en la costa."
+    },
+    {
+        "text": "El municipio implementó nuevas rutas de recolección diferenciada.",
+        "summary": "Cambian rutas de recolección diferenciada."
+    },
+    {
+        "text": "Una pareja de turistas rescató a un cachorro que había caído a un desagüe.",
+        "summary": "Turistas rescatan cachorro de un desagüe."
+    },
+    {
+        "text": "Un artesano local fabricó una réplica exacta de un barco histórico.",
+        "summary": "Artesano crea réplica de barco histórico."
+    },
+    {
+        "text": "La universidad lanzó un programa de pasantías para jóvenes de la región.",
+        "summary": "Universidad ofrece nuevas pasantías."
+    },
+    {
+        "text": "Una exposición fotográfica homenajea a trabajadores esenciales.",
+        "summary": "Exposición rinde homenaje a esenciales."
+    },
+    {
+        "text": "La policía recuperó una bicicleta robada gracias a cámaras de seguridad.",
+        "summary": "Cámaras permiten recuperar una bicicleta robada."
+    },
+    {
+        "text": "Reabrió un parque urbano luego de meses de obras de puesta en valor.",
+        "summary": "Reabre parque urbano renovado."
+    },
+    {
+        "text": "Un grupo de astrónomos observó un cometa visible a simple vista.",
+        "summary": "Astrónomos reportan cometa visible."
+    },
+    {
+        "text": "El centro de salud ofrecerá atención extendida durante los fines de semana.",
+        "summary": "Extienden horarios de atención médica."
+    },
+    {
+        "text": "Una pareja celebró sus bodas de oro con una fiesta comunitaria.",
+        "summary": "Pareja festeja 50 años de casados."
+    },
+    {
+        "text": "Una falla informática afectó temporalmente el sistema de turnos online.",
+        "summary": "Falla técnica afecta turnos online."
+    },
+    {
+        "text": "Voluntarios recolectaron abrigos para familias vulnerables antes del invierno.",
+        "summary": "Juntan abrigos para familias vulnerables."
+    },
+    {
+        "text": "La ciudad incorporó nuevos contenedores de reciclaje en zonas céntricas.",
+        "summary": "Colocan contenedores de reciclaje en el centro."
+    },
+    {
+        "text": "Un camión volcó en la ruta y provocó demoras durante varias horas.",
+        "summary": "Vuelco de camión genera demoras."
+    },
+    {
+        "text": "El observatorio local transmitió en vivo un eclipse parcial de luna.",
+        "summary": "Observatorio transmite eclipse lunar."
+    },
+    {
+        "text": "Una banda juvenil grabó su primer videoclip en la costa.",
+        "summary": "Banda joven filma su primer videoclip."
+    },
+    {
+        "text": "Una colonia de vacaciones abrió inscripciones con actividades deportivas y artísticas.",
+        "summary": "Abren inscripciones para colonia de verano."
+    },
+    {
+        "text": "Vecinos denunciaron un olor fuerte proveniente de una fábrica cercana.",
+        "summary": "Vecinos denuncian olores de una fábrica."
+    },
+    {
+        "text": "Una cafetería del barrio agregó opciones veganas a su menú.",
+        "summary": "Cafetería suma opciones veganas."
+    },
+    {
+        "text": "Los bomberos apagaron un incendio en una vivienda sin heridos.",
+        "summary": "Bomberos controlan un incendio en casa sin heridos."
+    },
+    {
+        "text": "El centro de día inauguró un espacio para actividades recreativas para adultos mayores.",
+        "summary": "Centro abre espacio recreativo para mayores."
+    },
+    {
+        "text": "Una protesta de transportistas generó demoras en el tránsito matutino.",
+        "summary": "Protesta de transportistas retrasa el tránsito."
+    },
+    {
+        "text": "Una nueva línea de colectivos comenzará a operar para conectar barrios periféricos con el centro.",
+        "summary": "Lanzan nueva línea de colectivos hacia el centro."
+    },
+    {
+        "text": "Investigadores hallaron en Salta un mineral poco común que podría tener usos industriales.",
+        "summary": "Descubren mineral raro con potencial industrial."
+    },
+    {
+        "text": "Un refugio local recibió donaciones de mantas tras la llegada de una ola de frío.",
+        "summary": "Refugio recibe mantas por ola de frío."
+    },
+    {
+        "text": "La universidad organizó una jornada de orientación vocacional para futuros ingresantes.",
+        "summary": "Realizan jornada de orientación vocacional."
+    },
+    {
+        "text": "Un marinero rescató a un perro que llevaba horas nadando mar adentro.",
+        "summary": "Marinero salva a perro perdido en el mar."
+    },
+    {
+        "text": "La ciudad incorporó sensores para monitorear la calidad del aire en tiempo real.",
+        "summary": "Instalan sensores para medir calidad del aire."
+    },
+    {
+        "text": "Vecinos reportaron la aparición de un zorro en una plaza durante la noche.",
+        "summary": "Aparece zorro en una plaza del barrio."
+    },
+    {
+        "text": "Una fábrica textil reabrió luego de meses cerrada y retomó la producción.",
+        "summary": "Fábrica textil retoma su producción."
+    },
+    {
+        "text": "Un joven desarrolló un dispositivo casero para ahorrar agua en duchas.",
+        "summary": "Crean dispositivo casero para ahorrar agua."
+    },
+    {
+        "text": "La policía secuestró vehículos con documentación adulterada en un operativo.",
+        "summary": "Secuestran autos con papeles adulterados."
+    },
+    {
+        "text": "Un científico publicó un estudio sobre el impacto del cambio climático en la fauna local.",
+        "summary": "Estudio analiza efectos del clima en fauna local."
+    },
+    {
+        "text": "Una empresa de alimentos lanzó una línea de productos con empaques compostables.",
+        "summary": "Empresa lanza envases compostables."
+    },
+    {
+        "text": "El teatro municipal presentó una temporada dedicada a dramaturgos nacionales.",
+        "summary": "Teatro dedica su temporada a autores nacionales."
+    },
+    {
+        "text": "Una familia encontró un cuadro antiguo al renovar una habitación y lo donó a un museo.",
+        "summary": "Familia dona cuadro antiguo hallado en su casa."
+    },
+    {
+        "text": "Un perro fue rescatado tras quedar atrapado bajo una estructura caída por el viento.",
+        "summary": "Rescatan perro atrapado tras fuertes vientos."
+    },
+    {
+        "text": "El hospital comenzó una campaña para promover la donación voluntaria de sangre.",
+        "summary": "Hospital impulsa campaña de donación de sangre."
+    },
+    {
+        "text": "Una escuela reemplazó sus pizarrones tradicionales por pantallas digitales.",
+        "summary": "Escuela incorpora pantallas digitales."
+    },
+    {
+        "text": "La ciudad repavimentará una avenida principal durante el fin de semana.",
+        "summary": "Repavimentan avenida central el fin de semana."
+    },
+    {
+        "text": "Vecinos denunciaron un basural clandestino en las afueras de la ciudad.",
+        "summary": "Denuncian basural clandestino en las afueras."
+    },
+    {
+        "text": "El centro comercial abrirá una zona de juegos para niños.",
+        "summary": "Centro comercial suma área infantil."
+    },
+    {
+        "text": "Un joven encontró documentos perdidos y los devolvió al dueño gracias a redes sociales.",
+        "summary": "Joven devuelve documentos hallados mediante redes."
+    },
+    {
+        "text": "El servicio meteorológico advirtió sobre posibles tormentas fuertes por la tarde.",
+        "summary": "Alertan por tormentas fuertes."
+    },
+    {
+        "text": "Turistas reportaron la presencia de delfines cerca de la costa.",
+        "summary": "Avistan delfines cerca de la costa."
+    },
+    {
+        "text": "Una productora local filmará una serie basada en leyendas regionales.",
+        "summary": "Filmarán serie inspirada en leyendas locales."
+    },
+    {
+        "text": "El municipio colocó nuevas rampas de accesibilidad en edificios públicos.",
+        "summary": "Instalan rampas de accesibilidad en edificios públicos."
+    },
+    {
+        "text": "Una competencia de ciclismo reunió a deportistas de todo el país.",
+        "summary": "Competencia de ciclismo convoca a atletas nacionales."
+    },
+    {
+        "text": "Un incendio menor en un comercio fue controlado rápidamente sin heridos.",
+        "summary": "Controlan incendio en comercio sin heridos."
+    },
+    {
+        "text": "La biblioteca digital sumó cientos de libros gratuitos en formato electrónico.",
+        "summary": "Biblioteca digital agrega libros gratuitos."
+    },
+    {
+        "text": "Un equipo de veterinarios rescató a un lobo marino herido en la costa.",
+        "summary": "Veterinarios rescatan lobo marino herido."
+    },
+    {
+        "text": "Una exposición itinerante sobre dinosaurios llegó al centro cultural y permanecerá dos semanas.",
+        "summary": "Exposición de dinosaurios se instala por dos semanas."
+    },
+    {
+        "text": "El municipio anunció un plan para renovar veredas en barrios con mayor tránsito peatonal.",
+        "summary": "Implementan plan para renovar veredas concurridas."
+    },
+    {
+        "text": "Un grupo de amigos creó un emprendimiento de muebles hechos con pallets reciclados.",
+        "summary": "Emprendimiento fabrica muebles con pallets reciclados."
+    },
+    {
+        "text": "El hospital informó que incorporó un nuevo equipo de radiología de última generación.",
+        "summary": "Hospital suma radiología de última generación."
+    },
+    {
+        "text": "La policía encontró un auto abandonado que había sido denunciado como robado.",
+        "summary": "Hallan auto robado abandonado."
+    },
+    {
+        "text": "Un incendio en un garage provocó daños materiales pero no dejó heridos.",
+        "summary": "Incendio en garage causa daños sin heridos."
+    },
+    {
+        "text": "La ciudad implementó un sistema de bicicletas públicas con estaciones automáticas.",
+        "summary": "Lanzan sistema de bicicletas públicas."
+    },
+    {
+        "text": "Una pareja restauró un cine antiguo y reabrió con funciones de cine clásico.",
+        "summary": "Reabre cine antiguo con funciones clásicas."
+    },
+    {
+        "text": "Un joven deportista fue seleccionado para representar al país en un torneo internacional.",
+        "summary": "Joven representará al país en torneo internacional."
+    },
+    {
+        "text": "Investigadores descubrieron una nueva especie de planta en un bosque subtropical.",
+        "summary": "Hallan nueva especie vegetal en bosque subtropical."
+    },
+    {
+        "text": "Una feria medieval atrajo a cientos de visitantes durante el fin de semana.",
+        "summary": "Feria medieval convoca a cientos de personas."
+    },
+    {
+        "text": "El tránsito se volvió lento tras el vuelco de un camión en la autopista.",
+        "summary": "Vuelco de camión genera demoras en autopista."
+    },
+    {
+        "text": "Se inauguró un mural colectivo en homenaje a artistas locales.",
+        "summary": "Inauguran mural en homenaje a artistas locales."
+    },
+    {
+        "text": "Una tormenta eléctrica provocó fallas en varias antenas de comunicación.",
+        "summary": "Tormenta causa fallas en antenas de comunicación."
+    },
+    {
+        "text": "Una competencia de videojuegos reunió a jugadores profesionales de toda la región.",
+        "summary": "Torneo de videojuegos convoca a jugadores regionales."
+    },
+    {
+        "text": "Un restaurante local ganó un premio por su propuesta gastronómica innovadora.",
+        "summary": "Restaurante recibe premio por innovación culinaria."
+    },
+    {
+        "text": "Una familia encontró un cachorrito abandonado en la puerta de su casa y lo adoptó.",
+        "summary": "Familia adopta cachorro abandonado."
+    },
+    {
+        "text": "El centro comunitario ofrecerá cursos gratuitos de alfabetización digital.",
+        "summary": "Centro comunitario ofrece cursos de alfabetización digital."
+    },
+    {
+        "text": "Una falla eléctrica dejó sin semáforos varias intersecciones clave.",
+        "summary": "Falla eléctrica apaga semáforos en puntos clave."
+    },
+    {
+        "text": "Un pescador rescató a un kayakista que había volcado en aguas profundas.",
+        "summary": "Pescador rescata a kayakista volcado."
+    },
+    {
+        "text": "El museo exhibe una colección de piezas precolombinas recuperadas.",
+        "summary": "Museo muestra piezas precolombinas recuperadas."
+    },
+    {
+        "text": "Se realizará un censo para conocer la población de aves en espacios urbanos.",
+        "summary": "Lanzan censo de aves urbanas."
+    },
+    {
+        "text": "Una panadería organizó un concurso de facturas para celebrar su aniversario.",
+        "summary": "Panadería organiza concurso de facturas."
+    },
+    {
+        "text": "El transporte público funcionará con horario reducido durante el feriado.",
+        "summary": "Transporte público tendrá horario reducido en feriado."
+    },
+    {
+        "text": "Una empresa local desarrolló un robot para tareas de limpieza industrial.",
+        "summary": "Empresa crea robot para limpieza industrial."
+    },
+    {
+        "text": "La costa registró un aumento de medusas debido a cambios en la temperatura del agua.",
+        "summary": "Aumentan las medusas por cambios de temperatura."
+    },
+    {
+        "text": "Estudiantes realizaron un experimento para medir la contaminación sonora en su barrio.",
+        "summary": "Estudiantes miden contaminación sonora barrial."
+    },
+    {
+        "text": "Una plaza del centro fue remodelada con juegos nuevos y más iluminación.",
+        "summary": "Remodelan plaza céntrica con juegos e iluminación."
+    },
+    {
+        "text": "Un corte de fibra óptica afectó servicios de internet en varias zonas.",
+        "summary": "Corte de fibra óptica deja barrios sin internet."
+    },
+    {
+        "text": "El festival de cine local proyectará películas hechas por realizadores independientes.",
+        "summary": "Festival de cine exhibirá producciones independientes."
+    },
+    {
+        "text": "Una tormenta de granizo dañó techos y vehículos durante la tarde.",
+        "summary": "Granizo provoca daños materiales."
+    },
+    {
+        "text": "La escuela inauguró un laboratorio de ciencias equipado por donaciones.",
+        "summary": "Escuela abre laboratorio de ciencias donado."
+    },
+    {
+        "text": "Una familia construyó una casa sustentable utilizando energía solar.",
+        "summary": "Familia construye casa sustentable solar."
+    },
+    {
+        "text": "Vecinos reportaron cortes intermitentes de agua durante la noche.",
+        "summary": "Reportan cortes intermitentes de agua."
+    },
+    {
+        "text": "Un grupo de ciclistas realizó una travesía solidaria para recaudar alimentos.",
+        "summary": "Ciclistas hacen travesía solidaria por alimentos."
+    },
+    {
+        "text": "La policía investiga el robo a una farmacia ocurrido de madrugada.",
+        "summary": "Investigan robo nocturno en farmacia."
+    },
+    {
+        "text": "Un grupo de artesanos abrió un mercado de diseño en un galpón recuperado.",
+        "summary": "Abren mercado de diseño en galpón recuperado."
+    },
+    {
+        "text": "Se registraron temperaturas récord para esta época del año.",
+        "summary": "Registran temperaturas inusualmente altas."
+    },
+    {
+        "text": "Una mujer rescató a un gato que había quedado atrapado en un árbol.",
+        "summary": "Mujer rescata gato atrapado en un árbol."
+    },
+    {
+        "text": "El gobernador anunció obras de mejora en rutas provinciales.",
+        "summary": "Anuncian mejoras en rutas provinciales."
+    },
+    {
+        "text": "Un grupo de voluntarios pintó murales en una escuela pública.",
+        "summary": "Voluntarios pintan murales en escuela."
+    },
+    {
+        "text": "Un incendio forestal obligó a evacuar a varias familias cercanas al cerro.",
+        "summary": "Incendio forestal provoca evacuaciones."
+    },
+    {
+        "text": "La ciudad sumará más unidades de ambulancias para mejorar la atención.",
+        "summary": "Agregan ambulancias para reforzar atención."
+    },
+    {
+        "text": "Una empresa presentó un dron capaz de mapear terrenos en minutos.",
+        "summary": "Presentan dron que mapea terrenos rápidamente."
+    },
+    {
+        "text": "El zoológico abrió un nuevo sector dedicado a especies autóctonas.",
+        "summary": "Zoológico inaugura área de fauna autóctona."
+    },
+    {
+        "text": "Un mecánico creó una bicicleta eléctrica casera para uso urbano.",
+        "summary": "Mecánico fabrica bicicleta eléctrica casera."
+    },
+    {
+        "text": "Lanzaron una campaña para fomentar la lectura en jóvenes.",
+        "summary": "Impulsan campaña de lectura juvenil."
+    },
+    {
+        "text": "Una tormenta dejó calles anegadas y vehículos varados en el centro.",
+        "summary": "Tormenta deja calles anegadas."
+    },
+    {
+        "text": "El teatro municipal anunció talleres de actuación abiertos al público.",
+        "summary": "Teatro ofrecerá talleres de actuación."
+    },
+    {
+        "text": "Una ONG construyó viviendas de emergencia para familias damnificadas.",
+        "summary": "ONG construye viviendas de emergencia."
+    },
+    {
+        "text": "Un vecino encontró un loro herido y lo llevó a un centro de rescate.",
+        "summary": "Vecino rescata loro herido."
+    },
+    {
+        "text": "La municipalidad ampliará el recorrido de la línea nocturna de colectivos.",
+        "summary": "Amplían recorrido de colectivos nocturnos."
+    },
+    {
+        "text": "Una familia organizó una colecta de alimentos para un comedor barrial.",
+        "summary": "Familia junta alimentos para comedor barrial."
+    },
+    {
+        "text": "Una falla en un generador afectó el suministro eléctrico de un hospital.",
+        "summary": "Falla en generador afecta hospital."
+    },
+    {
+        "text": "El museo ofrecerá visitas guiadas nocturnas durante el mes.",
+        "summary": "Museo brinda visitas nocturnas temporales."
+    },
+    {
+        "text": "Un joven creó una app para organizar grupos de estudio universitario.",
+        "summary": "Joven desarrolla app para grupos de estudio."
+    },
+    {
+        "text": "Una banda local lanzó un videoclip grabado íntegramente con celulares.",
+        "summary": "Banda presenta videoclip filmado con celulares."
+    },
+    {
+        "text": "La biblioteca recibió una donación de libros infantiles ilustrados.",
+        "summary": "Biblioteca recibe libros infantiles donados."
+    },
+    {
+        "text": "Un fuerte viento derribó carteles y ramas en el centro de la ciudad.",
+        "summary": "Viento fuerte provoca caída de carteles y ramas."
+    },
+    {
+        "text": "La playa registró una gran afluencia de turistas durante el fin de semana largo.",
+        "summary": "Turistas colmaron la playa en fin de semana largo."
+    },
+    {
+        "text": "Una empresa de transporte sumó unidades con accesibilidad para personas con movilidad reducida.",
+        "summary": "Transporte agrega unidades accesibles."
+    },
+    {
+        "text": "Vecinos denunciaron la rotura de un caño de agua que provocó pérdidas en la calle.",
+        "summary": "Denuncian pérdida de agua por caño roto."
+    },
+    {
+        "text": "Una fundación lanzó talleres para fomentar la inclusión laboral.",
+        "summary": "Fundación lanza talleres de inclusión laboral."
+    },
+    {
+        "text": "Se avistó una ballena cerca de la costa generando sorpresa en los turistas.",
+        "summary": "Avistan ballena cerca de la costa."
+    },
+    {
+        "text": "El aeropuerto amplió su zona de embarque tras obras de infraestructura.",
+        "summary": "Amplían zona de embarque en aeropuerto."
+    },
+    {
+        "text": "Un perro callejero fue adoptado tras hacerse viral en redes sociales.",
+        "summary": "Perro callejero es adoptado tras viralizarse."
+    },
+    {
+        "text": "El colegio introdujo clases de programación para alumnos de primaria.",
+        "summary": "Colegio implementa clases de programación."
+    },
+    {
+        "text": "Un apagón dejó sin semáforos varias avenidas durante la mañana.",
+        "summary": "Apagón deja avenidas sin semáforos."
+    },
+    {
+        "text": "Una competición de robótica estudiantil reunió a equipos de varias provincias.",
+        "summary": "Competencia de robótica convoca a escuelas del país."
+    },
+    {
+        "text": "La ciudad colocó dispensadores de bolsas para mascotas en parques públicos.",
+        "summary": "Instalan dispensadores para mascotas en parques."
+    },
+    {
+        "text": "Una feria de artesanías presentó productos hechos con materiales reciclados.",
+        "summary": "Feria artesana exhibe productos reciclados."
+    },
+    {
+        "text": "Un equipo de rescate salvó a un andinista perdido en la montaña.",
+        "summary": "Rescatan a andinista perdido."
+    },
+    {
+        "text": "Una heladería abrió una sucursal temática inspirada en los años 80.",
+        "summary": "Heladería inaugura espacio con temática ochentosa."
+    },
+    {
+        "text": "Se instalaron cámaras de seguridad en un parque donde había robos frecuentes.",
+        "summary": "Colocan cámaras en parque con robos."
+    },
+    {
+        "text": "Una familia abrió un emprendimiento de comida casera para delivery.",
+        "summary": "Familia lanza emprendimiento de comida casera."
+    },
+    {
+        "text": "Un fuerte sismo se sintió en varias ciudades cercanas al epicentro.",
+        "summary": "Fuerte sismo se percibe en múltiples ciudades."
+    },
+    {
+        "text": "La estación de tren sumó máquinas automáticas para comprar boletos.",
+        "summary": "Instalan máquinas automáticas de boletos."
+    },
+    {
+        "text": "Un grupo de artistas pintó murales para embellecer una estación de ómnibus.",
+        "summary": "Artistas embellecen estación con murales."
+    },
+    {
+        "text": "La ciudad vivió un récord de ocupación hotelera durante el verano.",
+        "summary": "Ocupación hotelera alcanza récord en verano."
+    },
+    {
+        "text": "Una tormenta afectó cultivos de hortalizas en zonas rurales.",
+        "summary": "Tormenta daña cultivos rurales."
+    },
+    {
+        "text": "El centro deportivo inauguró una pileta climatizada para uso comunitario.",
+        "summary": "Centro deportivo abre pileta climatizada."
+    },
+    {
+        "text": "Un joven rescató a un hombre que había caído en un canal.",
+        "summary": "Joven rescata a hombre caído en canal."
+    },
+    {
+        "text": "La biblioteca lanzó un club de lectura virtual para adultos.",
+        "summary": "Biblioteca inicia club de lectura virtual."
+    },
+    {
+        "text": "Una escuela agregó huertas educativas para enseñar agricultura básica.",
+        "summary": "Escuela incorpora huertas educativas."
+    },
+    {
+        "text": "Un operativo policial detectó autos con patentes adulteradas.",
+        "summary": "Operativo halla autos con patentes adulteradas."
+    },
+    {
+        "text": "Una fuerte nevada cubrió de blanco varios pueblos de montaña.",
+        "summary": "Nevada cubre pueblos de montaña."
+    },
+    {
+        "text": "Los bomberos lograron sofocar un incendio en un depósito industrial.",
+        "summary": "Bomberos controlan incendio en depósito industrial."
+    },
+    {
+        "text": "Un museo instaló una sala interactiva para niños con actividades didácticas.",
+        "summary": "Museo abre sala interactiva infantil."
+    },
+    {
+        "text": "Un grupo de jóvenes creó una campaña para limpiar basurales en su municipio.",
+        "summary": "Jóvenes lanzan campaña para limpiar basurales."
+    },
+    {
+        "text": "La policía encontró una moto robada escondida en un baldío.",
+        "summary": "Encuentran moto robada en un baldío."
+    },
+    {
+        "text": "El centro comercial abrirá un espacio exclusivo para emprendedores locales.",
+        "summary": "Abren espacio para emprendedores en centro comercial."
+    },
+    {
+        "text": "Vecinos informaron la presencia de un olor extraño proveniente de una fábrica.",
+        "summary": "Vecinos reportan olor extraño de fábrica."
+    },
+    {
+        "text": "Una banda sinfónica juvenil dio un concierto gratuito en la plaza principal.",
+        "summary": "Orquesta juvenil ofrece concierto gratuito."
+    },
+    {
+        "text": "Un fuerte temporal provocó daños en techos y postes de luz.",
+        "summary": "Temporal causa daños en techos y postes."
+    },
+    {
+        "text": "Un grupo de estudiantes organizó una colecta de útiles escolares para familias en situación vulnerable.",
+        "summary": "Estudiantes juntan útiles para familias vulnerables."
+    },
+    {
+        "text": "El equipo de rescate logró liberar a un caballo que había caído en una zanja profunda.",
+        "summary": "Rescatan a un caballo caído en una zanja."
+    },
+    {
+        "text": "Una panadería del barrio lanzó una línea de productos sin gluten para ampliar su oferta.",
+        "summary": "Panadería incorpora productos sin gluten."
+    },
+    {
+        "text": "El club local inauguró una cancha renovada con nuevo césped y luminarias LED.",
+        "summary": "Club inaugura cancha renovada con césped y luces LED."
+    },
+    {
+        "text": "Voluntarios limpiaron un tramo del río que acumulaba basura desde hacía meses.",
+        "summary": "Voluntarios limpian basura acumulada en el río."
+    },
+    {
+        "text": "El observatorio reportó una inusual lluvia de meteoros visible desde todo el país.",
+        "summary": "Registran inusual lluvia de meteoros visible a nivel nacional."
+    }
+]
