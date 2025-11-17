@@ -21,13 +21,13 @@ Quiero decir con esto anterior, que podriamos ya estudiar la red asi como está.
 
 En la primer ejecución de la red, obtuve esto:
 
-    ![alt text](miscellaneous/1.jpeg)
+![alt text](miscellaneous/1.jpeg)
 
 Un espanto, pero en esta ocación el error estaba en que el modelo esperaba inputs ya tokenizados. Es decir como valores enteros en un batch. Pero en cambio recibia texto.
 
 Corregido ese error obtuve:
 
-    ![alt text](miscellaneous/2.jpeg)
+![alt text](miscellaneous/2.jpeg)
 
 Donde claramente se ve una mejora. Aunque no tenía relacion con el texto a resumir ni tanta coherencia.
 El cambio que me sugería ChatGPT era implementar Attention al modelo LSTM que se usa en seq2seq. Pero yo preferí tomar otro camino y enfocarme en el Transformer. Guarde los pesos entrenados y a cada ejecución siguiente del codigo, se reentrenarían sobre esos mismos pesos ya entrenados. Obtuve esto:
@@ -36,6 +36,7 @@ El cambio que me sugería ChatGPT era implementar Attention al modelo LSTM que s
 
 Volví a re-entrenar y obtuve:
 
-    ![alt text](miscellaneous/4.jpeg)
+![alt text](miscellaneous/4.jpeg)
 
 Y ya ahi vemos como no solo tiene coherencia, sino que realizó correctamente el resumen de algunos titulares, mientras que en otros se acercó al menos. Una belleza.
+
