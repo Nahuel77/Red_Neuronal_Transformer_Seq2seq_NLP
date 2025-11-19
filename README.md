@@ -50,25 +50,26 @@ Bueno, aun no me hecho flores, vamos a ver como funciona esto...
 
 <h2>Estructura</h2>
 
-DEVICE = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-MAX_SRC_LEN = 128
-MAX_TGT_LEN = 40
-BATCH_SIZE = 16
-EPOCHS = 12
-LR = 3e-4
-D_MODEL = 128
-NHEAD = 4
-NUM_ENCODER_LAYERS = 3
-NUM_DECODER_LAYERS = 3
-DIM_FF = 512
-DROPOUT = 0.1
-MODEL_PATH = "transformer_summarizer.pt"
+DEVICE = torch.device("cuda" if torch.cuda.is_available() else "cpu")</br>
+MAX_SRC_LEN = 128</br>
+MAX_TGT_LEN = 40</br>
+BATCH_SIZE = 16</br>
+EPOCHS = 12</br>
+LR = 3e-4</br>
+D_MODEL = 128</br>
+NHEAD = 4</br>
+NUM_ENCODER_LAYERS = 3</br>
+NUM_DECODER_LAYERS = 3</br>
+DIM_FF = 512</br>
+DROPOUT = 0.1</br>
+MODEL_PATH = "transformer_summarizer.pt"</br>
 
 <h2>Main</h2>
 
 Una vez escuche decir a alguien de sistemas que lo mejor para aprender una nueva tecnología, es ver que problema vino a solucionar la misma. Y es sabio pensar asi, porque ninguna tecnología se abre paso si no es realmente necesitada.
 RNN, LSTM, Seq2seq tienen una memoria, si, pero comparada con Transformer, el paso fue gigante y permitió que secuencias mas largas, como por ejemplo un texto mas largo que "hola mundo", fueran comprendidas por la red neuronal en cuestion.
-Y con comprendidas me refiero a que al igual que ChatGPT, si dieramos un texto de entrada con varios contextos, sujetos, verbos, Transformer sabria exactamente a que prestar más atención.
+Y con comprendidas me refiero a que al igual que ChatGPT, si dieramos un texto de entrada con varios contextos, sujetos, verbos, Transformer sabria exactamente a que prestar más atención, entendiendo el contexto y el mensaje real tras un texto largo.
+
 Mirando la frase:
 
     "Una familia de Cordoba encontró un capibara viviendo en su casa, en la noche en que llegaban de sus vacaciones en Mexico"
@@ -81,11 +82,11 @@ Recordemos que en una secuencia tenemos una referencia de tiempo t, donde cada p
     t_0: "Una", t_1: " ", t_2: "familia", t_3: " ", t_4: "de"...
 
 Por lo tanto al llegar a t_43 (si no conté mal), la memoría, que por ejemplo en LSTM manejabamos por contexto, habria perdido la información de t_2: "familia" y justamente para lo que importa al entendimiento de la frase, el sujeto principal es importantisimo.
-De modo que Transoformer viene a solucionar esto, pero con la solución vino una potenciasión de NLP.
-Transformer incorpora la atención como una parte de la arquitectura dedicada. Y no solo una elemento secundario.
+De modo que Transoformer viene a solucionar esto, pero con la solución vino una potenciación de NLP.
+Transformer incorpora la atención como una parte de la arquitectura dedicada a la memoria de la misma. Y no solo una elemento secundario.
 
-Una aclaración para lo que es a este codigo. La manera en que todo esta dentro de un archivo main.py, con 259 lineas de codigo apiladas, con todas las medidas de estructuras, clases y funciones en un solo sheet; no es ni debería ser para nada la manera de trabajar.
-Lo normal es desacoplar, y modularizar el codigo. Pero para lo que es el estudio, y seguir el hilo de los datos, que todo este en la misma hoja, me sirve para la funcionalidad de VSCode de dar click a una variable y mostrarme donde mas esta presente en la hoja.
+Una aclaración referente a este codigo. La manera en que todo esta dentro de un archivo main.py, con 259 lineas de codigo apiladas, con todas las medidas de estructuras, clases y funciones en un solo sheet; no es ni debería ser para nada la manera de trabajar.
+Lo normal es desacoplar, y modularizar el codigo. Pero para el estudio, y para seguir el hilo de los datos, que todo este en la misma hoja me es util por la funcionalidad de VSCode de dar click a una variable y mostrarme donde mas esta presente en la hoja.
 
 Por donde empezar con este codigo... 259 lineas no es nada facil de leer... obviamente por donde lo levante la ejecucion.
 
@@ -168,7 +169,7 @@ Si nuestro texto fuera "Estudiantes mendocinos desarrollan una app contra plagas
 
 Siguiendo con la funcion build_vocab() sigue:
 
-        items = [w for w, c in counter.most_common() if c >= min_freq]
+    items = [w for w, c in counter.most_common() if c >= min_freq]
 
 Python tiene una forma abreviada de escribir un list comprehension: for (w, c) in counter.most_common()
 Lo que hace en realidad es:
@@ -206,4 +207,8 @@ Recordemos que veniamos de mirar el main() y estabamos en:
 
     src_stoi, src_itos = build_vocab(src_texts)
     tgt_stoi, tgt_itos = build_vocab(tgt_texts)
+
+y prosigue el primer llamado a una clase:
+
+    train_ds = NewsSummaryDataset(train_items, src_stoi, tgt_stoi)
 
