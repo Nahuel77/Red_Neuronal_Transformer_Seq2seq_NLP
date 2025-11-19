@@ -48,7 +48,23 @@ Hasta que punto podriamos mejorar el trabajo de esta red? Re-entrenando pesos, n
 Antes de seguir admiremos el progreso que tuvo la red entre entrenamiento y entrenamiento. A mi personalmente me recordó un viejo pensamiento que tuve incluso antes de conocer ChatGPT. El lenguaje humano, separado de entendimientos mas profundos (que abre caminos a usos del lenguaje como la poesía o lenguajes logicos), puede ser llevado en su forma basica de estimulo, respuesta, a algebras y estadisticas. Verlo llevado a un codigo que lo demuestra no deja de impactarme. Que un niño aprenda que ante la palabra "hambre" puede recibir comida, es mas o menos lo que esta red realiza (pensamientos de alguien que viaja en colectivo :P ). Con más recursos podriamos crear nuestro ChatGPT.
 Bueno, aun no me hecho flores, vamos a ver como funciona esto...
 
-<h2>Transformer</h2>
+<h2>Estructura</h2>
+
+DEVICE = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+MAX_SRC_LEN = 128
+MAX_TGT_LEN = 40
+BATCH_SIZE = 16
+EPOCHS = 12
+LR = 3e-4
+D_MODEL = 128
+NHEAD = 4
+NUM_ENCODER_LAYERS = 3
+NUM_DECODER_LAYERS = 3
+DIM_FF = 512
+DROPOUT = 0.1
+MODEL_PATH = "transformer_summarizer.pt"
+
+<h2>Main</h2>
 
 Una vez escuche decir a alguien de sistemas que lo mejor para aprender una nueva tecnología, es ver que problema vino a solucionar la misma. Y es sabio pensar asi, porque ninguna tecnología se abre paso si no es realmente necesitada.
 RNN, LSTM, Seq2seq tienen una memoria, si, pero comparada con Transformer, el paso fue gigante y permitió que secuencias mas largas, como por ejemplo un texto mas largo que "hola mundo", fueran comprendidas por la red neuronal en cuestion.
@@ -153,8 +169,41 @@ Si nuestro texto fuera "Estudiantes mendocinos desarrollan una app contra plagas
 Siguiendo con la funcion build_vocab() sigue:
 
         items = [w for w, c in counter.most_common() if c >= min_freq]
-        items = items[: max_size - 4]
-        itos = ["<pad>", "<unk>", "<sos>", "<eos>"] + items
-        stoi = {w: i for i, w in enumerate(itos)}
-        return stoi, itos
+
+Python tiene una forma abreviada de escribir un list comprehension: for (w, c) in counter.most_common()
+Lo que hace en realidad es:
+
+    result = []
+    for (w, c) in counter.most_common():
+        if c >= min_freq:
+            result.append(w)
+
+De manera que lo que estamos haciendo es un conteo de las palabras mas usadas, si es que estan en uso (c >= min_freq). Obtendiamos algo asi:
+
+    [("los", 15), ("ciudad", 9), ("estudiantes", 1)]
+
+Luego en el codigo:
+
+    items = items[: max_size - 4]
+    itos = ["<pad>", "<unk>", "<sos>", "<eos>"] + items
+
+divido items en maximos de max_size (20000) - 4. Porque -4? porque al inicio de itos tengo 4 tokens ["<pad>", "<unk>", "<sos>", "<eos>"] + items. De ese modo itos queda tambien de tamaño max_size.
+
+    stoi = {w: i for i, w in enumerate(itos)}
+    return stoi, itos
+
+Lo siguiente es la construcción de un diccionario numerado llamado stoi con los elementos de itos
+
+    itos: ["<pad>", "<unk>", "<sos>", "<eos>", "los", "ciudad", ...]
+        construye:
+    stoi: {"<pad>": 0, "<unk>": 1, "<sos>": 2, "<eos>": 3, "los": 4, "ciudad": 5, ... }
+
+Finalmente build_vocab() retorna itos y stoi.
+
+    return stoi, itos
+
+Recordemos que veniamos de mirar el main() y estabamos en:
+
+    src_stoi, src_itos = build_vocab(src_texts)
+    tgt_stoi, tgt_itos = build_vocab(tgt_texts)
 
