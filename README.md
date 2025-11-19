@@ -125,10 +125,36 @@ Se llama dos veces la función build_vocab() y recibe src_texts en el primer cal
         counter = Counter()
         for t in texts:
             counter.update(tokenize(t))
+
+Recibe un parametro y define dos mas. max_size y min_freq. Inicializa un contador Counter() que se ocupa de contar elementos de tal modo que si tuvieramos por ejemplo [arbol, ave, arbol, perro] y contaramos con Counter(), obtendriamos [arbol: 2, ave: 1, perro: 1].
+El bucle "for t in texts" que le sigue invoca como parametro del counter, a tokenize(t). Vamos ahi:
+
+    def tokenize(text):
+        text = text.lower()
+        text = re.sub(r"[^a-z0-9áéíóúüñ \t]+", "", text)
+        return text.strip().split()
+
+Miremoslo del modo en que si a buid_vocab() se le hubiera pasado src_texts, tokenize() estaria recibiendo los textos y no los resumenes. "for t in texts" entonces estaría recorriendo y pasando cada text a tokenize().
+Tokenize() estaría pasando a minuscula cada caracter con text.lower(). re.sub trabaja de la siguiente manera.
+
+    re.sub(patrón, reemplazo, texto)
+
+declara un conjunto patrón que debe buscar en la cadena, si lo encuentra, lo remplaza con lo declarado en reemplazo, y texto es el string donde buscará. Si miramos nuestro patrón tenemos.
+
+    r"[^a-z0-9áéíóúüñ \t]+
+
+Dentro de [] el conjunto permitido, pero la presencia de ^ en el inicio nos indica una negación.
+Es decir que remplazará todo lo que NO sea "a-z0-9áéíóúüñ \t". y si miramos el reemplazo, es "" nada... Es decir que eliminará todo lo que no sea lo declarado en el patrón. El simbolo + indica que se permite el remplazo de uno o mas caracteres seguidos.
+
+Si nuestro texto fuera "Estudiantes mendocinos desarrollan una app contra plagas", tokenize(text) retorna
+
+    ['estudiantes', 'mendocinos', 'desarrollaron', 'una', 'app', 'contra', 'plagas']
+
+Siguiendo con la funcion build_vocab() sigue:
+
         items = [w for w, c in counter.most_common() if c >= min_freq]
         items = items[: max_size - 4]
         itos = ["<pad>", "<unk>", "<sos>", "<eos>"] + items
         stoi = {w: i for i, w in enumerate(itos)}
         return stoi, itos
 
-Recibe un parametro y define dos mas. max_size y min_freq. 
