@@ -256,3 +256,5 @@ encode_text() no hace mucho. Toma el texto, lo tokeniza (ya vimos lo que hace to
             ids += [stoi["<pad>"]] * (max_len - len(ids))
         return ids[:max_len]
 
+
+NOTA: PAUSADO. Se sigue en otro momento
